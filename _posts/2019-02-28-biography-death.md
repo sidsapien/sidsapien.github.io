@@ -2,7 +2,7 @@
 layout: post
 title:  "The impending death of biography"
 categories: [Biography]
-image: assets/images/india_pakistan_flags.jpg
+image: assets/images/biographies.jpg
 permalink: biography-impending-death
 tags: [biography, cicero, gutenberg, washington, gandhi, featured]
 ---
