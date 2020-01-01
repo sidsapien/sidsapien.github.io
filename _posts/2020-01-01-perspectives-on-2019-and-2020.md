@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "2019 - A year of paranoia and missed opportunities
-2020 - Modi's Indira Gandhi moment?"
+title:  "2019 - A year of paranoia and missed opportunities; 2020 - Modi's Indira Gandhi moment?"
 categories: [Politics]
 image: assets/images/preamble.png
 permalink: reflections-on-2019-for-2020
