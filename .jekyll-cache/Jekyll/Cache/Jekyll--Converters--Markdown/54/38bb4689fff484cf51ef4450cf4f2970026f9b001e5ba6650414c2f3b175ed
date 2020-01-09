@@ -1,4 +1,4 @@
-I"¼ç<div class="container">
+I"Rì<div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
         <h1 class="font-weight-bold title h6 text-uppercase mb-4">Categories</h1>
@@ -1700,6 +1700,47 @@
 	<div class="col-md-3 pr-0 text-right">
 	<a href="/disunited-and-unprogressive-india">
 	<img class="w-100" src="/assets/images/narendra_modi.jpg" alt="(Dis)United and (Un)Progressive India" />
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="other"><span>Other</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/bombardment-of-information">The curse of the bombardment of information</a>
+	</h2>
+	<p class="excerpt">
+	   Which was the last major news that aroused your interest so much as to compel you to express your views? Which was the most interesting news to you preceding that? And, preceding that...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#other">Other</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 09, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/bombardment-of-information">
+	<img class="w-100" src="/assets/images/information_clutter.jpg" alt="The curse of the bombardment of information" />
 	</a>
 	</div>
 

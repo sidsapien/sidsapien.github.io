@@ -1,4 +1,4 @@
-I"X<div class="container">
+I"TX<div class="container">
     
 
     
@@ -11,27 +11,26 @@
     
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
-    <a href="/reflections-on-2019-for-2020">
-    <div class="topfirstimage" style="background-image: url( /assets/images/preamble.png); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
+    <a href="/bombardment-of-information">
+    <div class="topfirstimage" style="background-image: url( /assets/images/information_clutter.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
-    <a class="text-dark" href="/reflections-on-2019-for-2020">2019 - A year of paranoia and missed opportunities
-2020 - Modi's Indira Gandhi moment?</a>
+    <a class="text-dark" href="/bombardment-of-information">The curse of the bombardment of information</a>
     </h2>
     <p class="excerpt">
-        As we enter 2020 today, let me start this write-up with a disclaimer: In India, if Sharma Ji’s spoiled son has the single “virtue” of...
+        Which was the last major news that aroused your interest so much as to compel you to express your views? Which was the most interesti...
     </p>
     <div>
         <small class="d-block text-muted">
             In <span class="catlist">
                 
-                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#politics">Politics</a><span class="sep">, </span>
+                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#other">Other</a><span class="sep">, </span>
                 
                 </span>                   
         </small>
         <small class="text-muted">
-            Jan 01, 2020
+            Jan 09, 2020
         </small>
     </div>
     </div>
@@ -43,8 +42,33 @@
         <!-- second latest post --><div class="mb-3 d-flex align-items-center">                
                 
                 <div class="col-md-4">
+                <a href="/reflections-on-2019-for-2020">
+                 <img class="w-100" src="http://0.0.0.0:4000/assets/images/preamble.png" alt="2019 - A year of paranoia and missed opportunities; 2020 - Modi's Indira Gandhi moment?" />
+                </a>
+                </div>
+                                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="/reflections-on-2019-for-2020">2019 - A year of paranoia and missed opportunities; 2020 - Modi's Indira Gandhi moment?</a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        In <span class="catlist">
+                        
+                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#politics">Politics</a><span class="sep">, </span>
+                        
+                        </span>                   
+                    </small>
+                    <small class="text-muted">
+                        Jan 01, 2020
+                    </small>
+                </div>
+            </div>
+        
+        <!-- third latest post --><div class="mb-3 d-flex align-items-center">                
+                
+                <div class="col-md-4">
                 <a href="/delhi-pollution-and-perspectives">
-                 <img class="w-100" src="http://0.0.0.0:4000/assets/images/delhi_pollution.jpg" alt="Delhi—Pollution and Perspectives" />
+                 <img class="w-100" src="/assets/images/delhi_pollution.jpg" alt="Delhi—Pollution and Perspectives" />
                 </a>
                 </div>
                                 
@@ -65,11 +89,11 @@
                 </div>
             </div>
         
-        <!-- third latest post --><div class="mb-3 d-flex align-items-center">                
+        <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">                
                 
                 <div class="col-md-4">
                 <a href="/ethics-morality-and-actions">
-                 <img class="w-100" src="/assets/images/ethics.png" alt="Ethics, Morality, and Actions: From rodents to humans, nations to companies, ancients to contemporaries" />
+                <img class="w-100" src="/assets/images/ethics.png" alt="Ethics, Morality, and Actions: From rodents to humans, nations to companies, ancients to contemporaries" />
                 </a>
                 </div>
                                 
@@ -90,36 +114,13 @@
                 </div>
             </div>
         
-        <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">                
-                
-                <div class="col-md-4">
-                <a href="/defining-politics">
-                <img class="w-100" src="/assets/images/politics.jpg" alt="Defining Politics" />
-                </a>
-                </div>
-                                
-                <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="/defining-politics">Defining Politics</a>
-                    </h2>
-                    <small class="d-block text-muted">
-                        In <span class="catlist">
-                        
-                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#politics">Politics</a><span class="sep">, </span>
-                        
-                        </span>                   
-                    </small>
-                    <small class="text-muted">
-                        Oct 20, 2019
-                    </small>
-                </div>
-            </div>
-        
     </div>
     
 </div>
     
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
+ 
+
  
 
  
@@ -220,8 +221,37 @@
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/reflections-on-2019-for-2020">2019 - A year of paranoia and missed opportunities
-2020 - Modi's Indira Gandhi moment?</a>
+	<a class="text-dark" href="/bombardment-of-information">The curse of the bombardment of information</a>
+	</h2>
+	<p class="excerpt">
+	   Which was the last major news that aroused your interest so much as to compel you to express your views? Which was the most interesting news to you preceding that? And, preceding that...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#other">Other</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 09, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/bombardment-of-information">
+	<img class="w-100" src="/assets/images/information_clutter.jpg" alt="The curse of the bombardment of information" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/reflections-on-2019-for-2020">2019 - A year of paranoia and missed opportunities; 2020 - Modi's Indira Gandhi moment?</a>
 	</h2>
 	<p class="excerpt">
 	   As we enter 2020 today, let me start this write-up with a disclaimer: In India, if Sharma Ji’s spoiled son has the single “virtue” of being good at studies, the society exonerates him...
@@ -240,8 +270,7 @@
 
 	<div class="col-md-3 pr-0 text-right">
 	<a href="/reflections-on-2019-for-2020">
-	<img class="w-100" src="/assets/images/preamble.png" alt="2019 - A year of paranoia and missed opportunities
-2020 - Modi's Indira Gandhi moment?" />
+	<img class="w-100" src="/assets/images/preamble.png" alt="2019 - A year of paranoia and missed opportunities; 2020 - Modi's Indira Gandhi moment?" />
 	</a>
 	</div>
 
@@ -497,38 +526,6 @@
         
         
         
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/abolition-of-article-370-of-the-Constitution-of-India">Abolition of Article 370 of the Constitution of India</a>
-	</h2>
-	<p class="excerpt">
-	   Let’s start from the beginning. Article 370 was introduced as a temporary measure, to be valid until the formulation and adoption of the state’s constitution. The state of Jammu and K...
-	</p>
-	<small class="d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#history">History</a><span class="sep">, </span>
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#politics">Politics</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Aug 07, 2019
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/abolition-of-article-370-of-the-Constitution-of-India">
-	<img class="w-100" src="/assets/images/kashmir.jpg" alt="Abolition of Article 370 of the Constitution of India" />
-	</a>
-	</div>
-
-</div>
-        
-        
-        
         <div class="mt-5">
          <!-- Pagination links -->
             
@@ -550,6 +547,10 @@
                 <li class="page-item"><a class="page-link" href="/page3">3</a></li>
                 
               
+                
+                <li class="page-item"><a class="page-link" href="/page4">4</a></li>
+                
+              
 
               
                 <li class="page-item"><a class="page-link" href="/page2">Next &raquo;</a></li>
@@ -568,8 +569,7 @@
             <li class="mb-4">
             <span>
                 <h6 class="font-weight-bold">
-                    <a href="/reflections-on-2019-for-2020" class="text-dark">2019 - A year of paranoia and missed opportunities
-2020 - Modi's Indira Gandhi moment?</a>
+                    <a href="/reflections-on-2019-for-2020" class="text-dark">2019 - A year of paranoia and missed opportunities; 2020 - Modi's Indira Gandhi moment?</a>
                 </h6>
                 <span class="d-block text-muted">
                     In <span class="catlist">
