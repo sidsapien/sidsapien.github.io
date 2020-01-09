@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The curse of the bombardment of information"
-categories: [Other]
+categories: [Others]
 image: assets/images/information_clutter.jpg
 permalink: bombardment-of-information
 tags: []
