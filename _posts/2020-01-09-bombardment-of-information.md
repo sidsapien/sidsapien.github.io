@@ -4,7 +4,7 @@ title:  "The curse of the bombardment of information"
 categories: [Others]
 image: assets/images/information_clutter.jpg
 permalink: bombardment-of-information
-tags: []
+tags: [Social Media, Fake News, Twitter, Hashtags]
 ---
 Which was the last major news that aroused your interest so much as to compel you to express your views? Which was the most interesting news to you preceding that? And, preceding that? The chances are that these successive news stories came into your life in a jiffy and disappeared in an equally little amount of time by getting subsumed under other news stories. This is what the era of tweets, hashtags, and digital "stories" has done to us. In this age of the bombardment of information, our attention span has decreased to a point where it is becoming increasingly easy and effective for institutions (nation-states, governments, companies, etc.) to manage our life's goals and narrative. "Public memory is short-lived," used to be an oft-quoted expression. But, this age of information has modified it to: "Public memory is short-lived, easy to manipulate, and even easier to deviate."
 
