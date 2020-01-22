@@ -1,4 +1,4 @@
-I"µë<div class="container">
+I"—ô<div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
         <h1 class="font-weight-bold title h6 text-uppercase mb-4">Categories</h1>
@@ -6,6 +6,41 @@
          
         <h4 class="font-weight-bold spanborder text-capitalize" id="history"><span>History</span></h4>
             
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/perspectives-indian-nationalism">Perspectives on Indian Nationalism</a>
+	</h2>
+	<p class="excerpt">
+	   There are broadly two definitions of Indian Nationalism as put forward by academicians. The first celebrates nationalism in India as being pluralistic under which a citizen can succes...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#history">History</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#culture">Culture</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 19, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/perspectives-indian-nationalism">
+	<img class="w-100" src="/assets/images/indian_nationalism.jpg" alt="Perspectives on Indian Nationalism" />
+	</a>
+	</div>
+
+</div>
+          
         
         
         
@@ -1099,6 +1134,41 @@
          
         <h4 class="font-weight-bold spanborder text-capitalize" id="culture"><span>Culture</span></h4>
             
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/perspectives-indian-nationalism">Perspectives on Indian Nationalism</a>
+	</h2>
+	<p class="excerpt">
+	   There are broadly two definitions of Indian Nationalism as put forward by academicians. The first celebrates nationalism in India as being pluralistic under which a citizen can succes...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#history">History</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#culture">Culture</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 19, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/perspectives-indian-nationalism">
+	<img class="w-100" src="/assets/images/indian_nationalism.jpg" alt="Perspectives on Indian Nationalism" />
+	</a>
+	</div>
+
+</div>
+          
         
         
         

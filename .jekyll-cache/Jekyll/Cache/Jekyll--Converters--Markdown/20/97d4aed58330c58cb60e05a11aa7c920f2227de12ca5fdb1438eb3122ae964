@@ -1,4 +1,4 @@
-I"XX<div class="container">
+I"nX<div class="container">
     
 
     
@@ -11,26 +11,28 @@
     
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
-    <a href="/bombardment-of-information">
-    <div class="topfirstimage" style="background-image: url( /assets/images/information_clutter.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
+    <a href="/perspectives-indian-nationalism">
+    <div class="topfirstimage" style="background-image: url( /assets/images/indian_nationalism.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
-    <a class="text-dark" href="/bombardment-of-information">The curse of the bombardment of information</a>
+    <a class="text-dark" href="/perspectives-indian-nationalism">Perspectives on Indian Nationalism</a>
     </h2>
     <p class="excerpt">
-        Which was the last major news that aroused your interest so much as to compel you to express your views? Which was the most interesti...
+        There are broadly two definitions of Indian Nationalism as put forward by academicians. The first celebrates nationalism in India as ...
     </p>
     <div>
         <small class="d-block text-muted">
             In <span class="catlist">
                 
-                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#others">Others</a><span class="sep">, </span>
+                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#history">History</a><span class="sep">, </span>
+                
+                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#culture">Culture</a><span class="sep">, </span>
                 
                 </span>                   
         </small>
         <small class="text-muted">
-            Jan 09, 2020
+            Jan 19, 2020
         </small>
     </div>
     </div>
@@ -42,8 +44,33 @@
         <!-- second latest post --><div class="mb-3 d-flex align-items-center">                
                 
                 <div class="col-md-4">
+                <a href="/bombardment-of-information">
+                 <img class="w-100" src="http://0.0.0.0:4000/assets/images/information_clutter.jpg" alt="The curse of the bombardment of information" />
+                </a>
+                </div>
+                                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="/bombardment-of-information">The curse of the bombardment of information</a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        In <span class="catlist">
+                        
+                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#others">Others</a><span class="sep">, </span>
+                        
+                        </span>                   
+                    </small>
+                    <small class="text-muted">
+                        Jan 09, 2020
+                    </small>
+                </div>
+            </div>
+        
+        <!-- third latest post --><div class="mb-3 d-flex align-items-center">                
+                
+                <div class="col-md-4">
                 <a href="/reflections-on-2019-for-2020">
-                 <img class="w-100" src="http://0.0.0.0:4000/assets/images/preamble.png" alt="2019 - A year of paranoia and missed opportunities; 2020 - Modi's Indira Gandhi moment?" />
+                 <img class="w-100" src="/assets/images/preamble.png" alt="2019 - A year of paranoia and missed opportunities; 2020 - Modi's Indira Gandhi moment?" />
                 </a>
                 </div>
                                 
@@ -64,11 +91,11 @@
                 </div>
             </div>
         
-        <!-- third latest post --><div class="mb-3 d-flex align-items-center">                
+        <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">                
                 
                 <div class="col-md-4">
                 <a href="/delhi-pollution-and-perspectives">
-                 <img class="w-100" src="/assets/images/delhi_pollution.jpg" alt="Delhi—Pollution and Perspectives" />
+                <img class="w-100" src="/assets/images/delhi_pollution.jpg" alt="Delhi—Pollution and Perspectives" />
                 </a>
                 </div>
                                 
@@ -89,36 +116,13 @@
                 </div>
             </div>
         
-        <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">                
-                
-                <div class="col-md-4">
-                <a href="/ethics-morality-and-actions">
-                <img class="w-100" src="/assets/images/ethics.png" alt="Ethics, Morality, and Actions: From rodents to humans, nations to companies, ancients to contemporaries" />
-                </a>
-                </div>
-                                
-                <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="/ethics-morality-and-actions">Ethics, Morality, and Actions: From rodents to humans, nations to companies, ancients to contemporaries</a>
-                    </h2>
-                    <small class="d-block text-muted">
-                        In <span class="catlist">
-                        
-                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#others">Others</a><span class="sep">, </span>
-                        
-                        </span>                   
-                    </small>
-                    <small class="text-muted">
-                        Nov 03, 2019
-                    </small>
-                </div>
-            </div>
-        
     </div>
     
 </div>
     
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
+ 
+
  
 
  
@@ -216,6 +220,38 @@
         <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
         
 
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/perspectives-indian-nationalism">Perspectives on Indian Nationalism</a>
+	</h2>
+	<p class="excerpt">
+	   There are broadly two definitions of Indian Nationalism as put forward by academicians. The first celebrates nationalism in India as being pluralistic under which a citizen can succes...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#history">History</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#culture">Culture</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 19, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/perspectives-indian-nationalism">
+	<img class="w-100" src="/assets/images/indian_nationalism.jpg" alt="Perspectives on Indian Nationalism" />
+	</a>
+	</div>
+
+</div>
+        
         
         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
@@ -487,38 +523,6 @@
 	<div class="col-md-3 pr-0 text-right">
 	<a href="/reminiscing-the-visit-to-a-synagogue">
 	<img class="w-100" src="/assets/images/religious_symbols.png" alt="Reminiscing the visit to a synagogue" />
-	</a>
-	</div>
-
-</div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/knowledge-transfer-between-natural-allies">Knowledge Transfer Between Natural Allies</a>
-	</h2>
-	<p class="excerpt">
-	   A decade ago, President Barack Obama termed the United States of America and India as natural allies. One is the world’s oldest democracy while the other is its largest. Both nations ...
-	</p>
-	<small class="d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#history">History</a><span class="sep">, </span>
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#politics">Politics</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Aug 20, 2019
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/knowledge-transfer-between-natural-allies">
-	<img class="w-100" src="/assets/images/india_usa.jpg" alt="Knowledge Transfer Between Natural Allies" />
 	</a>
 	</div>
 
