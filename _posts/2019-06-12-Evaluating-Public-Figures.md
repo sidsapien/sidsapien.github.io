@@ -2,6 +2,7 @@
 layout: post
 title:  "The Predicament of Evaluating Some Public Figures"
 categories: [Biography, History]
+author: Siddharth
 image: assets/images/public_figures.jpg
 permalink: evaluating-public-figures
 tags: [Churchill, Kissinger, Gandhi, Nobel Peace Prize, featured]

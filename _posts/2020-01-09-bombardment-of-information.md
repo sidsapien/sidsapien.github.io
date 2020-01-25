@@ -2,6 +2,7 @@
 layout: post
 title:  "The curse of the bombardment of information"
 categories: [Others]
+author: Siddharth
 image: assets/images/information_clutter.jpg
 permalink: bombardment-of-information
 tags: [Social Media, Fake News, Twitter, Hashtags]

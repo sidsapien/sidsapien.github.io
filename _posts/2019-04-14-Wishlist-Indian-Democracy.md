@@ -2,6 +2,7 @@
 layout: post
 title:  "Two agendas for the wish list of Indian Democracy"
 categories: [Politics, History]
+author: Siddharth
 image: assets/images/election_voting.jpg
 permalink: two-agendas-indian-democracy-wishlist
 tags: [Whip, Muslims, Secularism, Madison]

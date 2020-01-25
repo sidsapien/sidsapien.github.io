@@ -2,6 +2,7 @@
 layout: post
 title:  "A fine example of classic hypocrisy"
 categories: [History, Politics, Culture]
+author: Siddharth
 image: assets/images/ghalib_book.jpg
 permalink: urdu-hypocrisy
 tags: [Urdu, Hypocrisy, Hindutva, Ghalib]

@@ -2,6 +2,7 @@
 layout: post
 title:  "To carry on or pass the baton"
 categories: [Others]
+author: Siddharth
 image: assets/images/pass_the_baton.jpg
 permalink: to-carry-on-or-pass-the-baton
 tags: [Shakespeare, retirement, Sachin Tendulkar, Sushma Swaraj, Washington, featured]

@@ -2,6 +2,7 @@
 layout: post
 title:  "Countering the Hindutva Narrative"
 categories: [Politics]
+author: Siddharth
 image: assets/images/hindutva.jpg
 permalink: countering-the-hindutva-narrative
 tags: [Hindutva, BJP, Modi, RSS, Federalism, Pluralism]

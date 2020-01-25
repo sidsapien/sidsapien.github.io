@@ -2,6 +2,7 @@
 layout: post
 title:  "Nehru, the Opposition, and the One Sheep"
 categories: [History]
+author: Siddharth
 image: assets/images/nehru_gandhi.jpg
 permalink: nehru-and-the-opposition
 tags: [Nehru, Kripalani, Gandhi, Rajaji]

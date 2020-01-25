@@ -2,6 +2,7 @@
 layout: post
 title:  "Twentieth Century's Religion"
 categories: [Politics, History, Religion]
+author: Siddharth
 image: assets/images/communist_symbol.png
 permalink: twentieth-centurys-religion
 tags: [Communism, Democracy]

@@ -2,6 +2,7 @@
 layout: post
 title:  "Parallels between Cinema and Politics in India"
 categories: [Cinema, Politics]
+author: Siddharth
 image: assets/images/cinema_politics.jpg
 permalink: parallels-between-cinema-and-politics-in-india
 tags: [Cinema, Politics]

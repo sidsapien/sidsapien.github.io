@@ -2,6 +2,7 @@
 layout: post
 title:  "Two Dichotomies of the Indian Civilization"
 categories: [History, Culture]
+author: Siddharth
 image: assets/images/india_culture.jpg
 permalink: dichotomies-indian-civilization
 tags: [Gandhi, Non-Violence, Ramayana, Mahabharata, Bose, Feminism, featured]

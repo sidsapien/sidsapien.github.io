@@ -2,9 +2,10 @@
 layout: post
 title:  "Is the World Order fundamentally changing?"
 categories: [History, International Affairs]
+author: Siddharth
 image: assets/images/un_general_assembly.jpg
 permalink: world-order
-tags: [China, Treaty of Wesphalia, America, India, sticky]
+tags: [China, Peace of Westphalia, America, India, sticky]
 ---
 On the thirtieth anniversary of Tiananmen Square protests, let's see the fundamental shift that is happening in the world by the rise of China. Many scholars point to the Peace of Westphalia in 1648 as the beginning of the idea of the nation-state. After Thirty Years' War in Europe, these treaties that were hammered in the mid-seventeenth century pronounced the concept of state sovereignty. It defined that sovereignty of a state shall be exclusive over its territory irrespective of its power or size. This fundamental concept of state sovereignty has never been challenged since. But, the other legacy that these treaties bequeathed was that of a world order centered around the European nations.
 

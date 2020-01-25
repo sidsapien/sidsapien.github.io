@@ -2,6 +2,7 @@
 layout: post
 title:  "Perspectives on Indian Nationalism"
 categories: [History, Culture]
+author: Siddharth
 image: assets/images/indian_nationalism.jpg
 permalink: perspectives-indian-nationalism
 tags: [Nationalism, European Nationalism, Gandhi, Nehru, Ambedkar, Pluralism, Hindutva]

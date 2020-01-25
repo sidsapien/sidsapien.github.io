@@ -2,6 +2,7 @@
 layout: post
 title:  "The impending death of biography"
 categories: [Biography]
+author: Siddharth
 image: assets/images/biographies.jpg
 permalink: biography-impending-death
 tags: [biography, cicero, gutenberg, washington, gandhi, featured]

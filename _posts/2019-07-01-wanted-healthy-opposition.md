@@ -2,6 +2,7 @@
 layout: post
 title:  "WANTED: HEALTHY OPPOSITION"
 categories: [Politics, History]
+author: Siddharth
 image: assets/images/india_parliament.png
 permalink: wanted-healthy-opposition
 tags: [Rajaji, Congress, Jefferson, Hamilton, Nehru]

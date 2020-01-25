@@ -2,6 +2,7 @@
 layout: post
 title:  "Nehru's Tryst With Progeny"
 categories: [History, Politics]
+author: Siddharth
 image: assets/images/nehru_tryst_with_destiny.jpg
 permalink: nehru-tryst-with-progeny
 tags: [Congress, Rajaji, Sardar Patel, Ram Guha]

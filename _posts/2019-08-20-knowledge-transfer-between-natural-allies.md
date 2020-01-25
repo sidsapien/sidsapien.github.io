@@ -2,6 +2,7 @@
 layout: post
 title:  "Knowledge Transfer Between Natural Allies"
 categories: [History, Politics]
+author: Siddharth
 image: assets/images/india_usa.jpg
 permalink: knowledge-transfer-between-natural-allies
 tags: [Democracy, India, USA]

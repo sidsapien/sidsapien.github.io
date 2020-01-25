@@ -2,6 +2,7 @@
 layout: post
 title:  "(Dis)United and (Un)Progressive India"
 categories: [Politics, Economics]
+author: Siddharth
 image: assets/images/narendra_modi.jpg
 permalink: disunited-and-unprogressive-india
 tags: [Kashmir, Modi, GDP]

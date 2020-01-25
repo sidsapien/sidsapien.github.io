@@ -2,6 +2,7 @@
 layout: post
 title:  "India's 2019 Men's Cricket World Cup Campaign"
 categories: [Cricket]
+author: Siddharth
 image: assets/images/indian_cricket.jpg
 permalink: indias-2019-mens-cricket-world-cup-campaign
 tags: [Dhoni, Bumrah, Rohit Sharma, Kohli]

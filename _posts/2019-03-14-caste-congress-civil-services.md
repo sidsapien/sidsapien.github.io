@@ -2,6 +2,7 @@
 layout: post
 title:  "Stability vs. Transformation: Caste, Congress, and Civil Services"
 categories: [History, Politics]
+author: Siddharth
 image: assets/images/ambedkar_statue.jpg
 permalink: caste-congress-civil-services
 tags: [Congress, Caste, Civil Services, Nehru, Ambedkar]

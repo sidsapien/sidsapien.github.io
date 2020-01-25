@@ -2,6 +2,7 @@
 layout: post
 title:  "Abolition of Article 370 of the Constitution of India"
 categories: [History, Politics]
+author: Siddharth
 image: assets/images/kashmir.jpg
 permalink: abolition-of-article-370-of-the-Constitution-of-India
 tags: [Democracy, Kashmir, Congress, Modi, Sushma Swaraj]

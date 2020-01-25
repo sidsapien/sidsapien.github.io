@@ -2,6 +2,7 @@
 layout: post
 title:  "Of ignorance and folly"
 categories: [History, Biography]
+author: Siddharth
 image: assets/images/gandhi_sarojini_naidu.jpg
 permalink: of-ignorance-and-folly
 tags: [Steinbeck, Statistics, Gandhi, Sarojini Naidu, Women]

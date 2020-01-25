@@ -2,6 +2,7 @@
 layout: post
 title:  "Dilip Kumar: A synonym of perfection"
 categories: [Cinema]
+author: Siddharth
 image: assets/images/dilip_kumar.jpg
 permalink: dilip-kumar
 tags: [Dilip Kumar, Dev Anand, Bimal Roy, Madhumati]

@@ -2,6 +2,7 @@
 layout: post
 title:  "Defining Politics"
 categories: [Politics]
+author: Siddharth
 image: assets/images/politics.jpg
 permalink: defining-politics
 tags: [Politics, Gandhi, Congress]
