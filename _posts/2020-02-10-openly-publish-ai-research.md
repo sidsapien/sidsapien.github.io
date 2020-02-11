@@ -3,7 +3,7 @@ layout: post
 title:  "Should the government dabble into AI researchers’ preference to publish openly?"
 categories: [Policy]
 author: Siddharth
-image: assets/images/un_general_assembly.jpg
+image: assets/images/publish_research.jpg
 permalink: openly-publish-research
 tags: [AI, research, open source]
 ---
