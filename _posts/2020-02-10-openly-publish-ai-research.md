@@ -25,16 +25,16 @@ Previous studies have shown that often the attempts made by governments to regul
 
 <b>References</b>
 
-[1] The Administration’s Report on the Future of Artificial Intelligence, October 12, 2016, p. 35, https://obamawhitehouse.archives.gov/blog/2016/10/12/administrations-report-future-artificial-intelligence.
+[1] The Administration’s Report on the Future of Artificial Intelligence, October 12, 2016, p. 35, <a href="https://obamawhitehouse.archives.gov/blog/2016/10/12/administrations-report-future-artificial-intelligence">https://obamawhitehouse.archives.gov/blog/2016/10/12/administrations-report-future-artificial-intelligence</a>.
 
-[2] Gregory Allen and Elsa B. Kania, "China Is Using America’s Own Plan to Dominate the Future of Artificial Intelligence," Foreign Policy, September 08, 2017, https://foreignpolicy.com/2017/09/08/china-is-using-americas-own-plan-to-dominate-the-future-of-artificial-intelligence/.
+[2] Gregory Allen and Elsa B. Kania, "China Is Using America’s Own Plan to Dominate the Future of Artificial Intelligence," Foreign Policy, September 08, 2017, <a href="https://foreignpolicy.com/2017/09/08/china-is-using-americas-own-plan-to-dominate-the-future-of-artificial-intelligence/">https://foreignpolicy.com/2017/09/08/china-is-using-americas-own-plan-to-dominate-the-future-of-artificial-intelligence/</a>.
 
-[3] "The world's most valuable resource is no longer oil, but data," The Economist, May 6, 2017, https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data.
+[3] "The world's most valuable resource is no longer oil, but data," The Economist, May 6, 2017, <a href="https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data">https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data</a>.
 
-[4] Michael Horowitz, et al. "Strategic competition in an era of artificial intelligence," Center for New American Security (Washington, DC: Center for New American Security, 2018), 8, 2018, p. 7, https://www.indexinvestor.com/resources/Research-Materials/NatSec/Strategic_Competition_in_Era_of_AI.pdf.
+[4] Michael Horowitz, et al. "Strategic competition in an era of artificial intelligence," Center for New American Security (Washington, DC: Center for New American Security, 2018), 8, 2018, p. 7, <a href="https://www.indexinvestor.com/resources/Research-Materials/NatSec/Strategic_Competition_in_Era_of_AI.pdf">https://www.indexinvestor.com/resources/Research-Materials/NatSec/Strategic_Competition_in_Era_of_AI.pdf</a>.
 
-[5] Saif M. Khan, "Maintaining the AI Chip Competitive Advantage of the United States and its Allies," Center for Security and Emerging Technology, December 2019, https://cset.georgetown.edu/wp-content/uploads/CSET-Maintaining-the-AI-Chip-Competitive-Advantage-of-the-United-States-and-its-Allies-20191206.pdf.
+[5] Saif M. Khan, "Maintaining the AI Chip Competitive Advantage of the United States and its Allies," Center for Security and Emerging Technology, December 2019, <a href="https://cset.georgetown.edu/wp-content/uploads/CSET-Maintaining-the-AI-Chip-Competitive-Advantage-of-the-United-States-and-its-Allies-20191206.pdf">https://cset.georgetown.edu/wp-content/uploads/CSET-Maintaining-the-AI-Chip-Competitive-Advantage-of-the-United-States-and-its-Allies-20191206.pdf</a>.
 
-[6] A. R. Miller and Catherine Tucker, "Privacy protection and technology diffusion: The case of electronic medical records," Management Science 55.7 (2009): 1077-1093, https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.1090.1014.
+[6] A. R. Miller and Catherine Tucker, "Privacy protection and technology diffusion: The case of electronic medical records," Management Science 55.7 (2009): 1077-1093, <a href="https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.1090.1014">https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.1090.1014</a>.
 
 
