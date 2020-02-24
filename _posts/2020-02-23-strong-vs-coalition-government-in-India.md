@@ -5,7 +5,7 @@ categories: [Politics]
 author: Siddharth
 image: assets/images/Indian_Parliament.png
 permalink: strong-vs-coalition-government-in-india
-tags: [Modi, Congress, BJP, Tughlaq, Atal Bihari, P V Narasimha Rao, Manmohan Singh]
+tags: [Modi, Congress, BJP, Tughlaq, Atal Bihari, P V Narasimha Rao, Manmohan Singh, Hamilton]
 ---
 As many stories go, once upon a time, there lived a king. The king's name was Muhammad bin Tughluq and he was the Sultan of Delhi from 1325 to 1351. He ruled over much of north India and wanted to expand his regime toward the Deccan. One day, he decided to move his capital from Delhi to Daulatabad in present-day Maharashtra to gain more influence in southern India. Going a step further, Tughlaq not only wanted to relocate the administration but rather the whole population of Delhi with him. Of course, most people did not want to move because of this senseless edict but such was Tughlaq's ruthless nature that nobody was willing to confront him at the time. And so, the proposed relocation started to become a reality.
 
