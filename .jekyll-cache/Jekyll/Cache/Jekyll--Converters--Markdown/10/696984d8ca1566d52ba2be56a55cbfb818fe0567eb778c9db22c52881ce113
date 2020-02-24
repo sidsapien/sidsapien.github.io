@@ -1,4 +1,4 @@
-I"(=<div class="container">
+I"‚=<div class="container">
     
  <!--endif page url is / -->
     
@@ -13,6 +13,38 @@
         <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
         
 
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/evaluating-public-figures">The Predicament of Evaluating Some Public Figures</a>
+	</h2>
+	<p class="excerpt">
+	   It is easy to evaluate the legacy of those public figures who did much good for society and some bad; or those who are remembered in the history of the world because of the havoc they...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#biography">Biography</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#history">History</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jun 12, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/evaluating-public-figures">
+	<img class="w-100" src="/assets/images/public_figures.jpg" alt="The Predicament of Evaluating Some Public Figures" />
+	</a>
+	</div>
+
+</div>
+        
         
         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
@@ -286,36 +318,6 @@
 	<div class="col-md-3 pr-0 text-right">
 	<a href="/biography-impending-death">
 	<img class="w-100" src="/assets/images/biographies.jpg" alt="The impending death of biography" />
-	</a>
-	</div>
-
-</div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/India-upcoming-lok-sabha-elections-2019">Indian General Election 2019: Towards a Hung Parliament?</a>
-	</h2>
-	<p class="excerpt">
-	   This article was originally published here.As the worldâ€™s largest democracy, India establishes the record for the largest number of votes cast every time it holds its general election...
-	</p>
-	<small class="d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#politics">Politics</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Feb 21, 2019
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/India-upcoming-lok-sabha-elections-2019">
-	<img class="w-100" src="/assets/images/modi_shah.jpg" alt="Indian General Election 2019: Towards a Hung Parliament?" />
 	</a>
 	</div>
 

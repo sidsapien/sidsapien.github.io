@@ -1,4 +1,4 @@
-I"—<div class="container">
+I"Ç<div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
         <h1 class="font-weight-bold title h6 text-uppercase mb-4">Categories</h1>
@@ -617,6 +617,39 @@
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/strong-vs-coalition-government-in-india">The Myth of the Efficacy of a Strong Government in India</a>
+	</h2>
+	<p class="excerpt">
+	   As many stories go, once upon a time, there lived a king. The kingâ€™s name was Muhammad bin Tughluq and he was the Sultan of Delhi from 1325 to 1351. He ruled over much of north India ...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#politics">Politics</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Feb 23, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/strong-vs-coalition-government-in-india">
+	<img class="w-100" src="/assets/images/Indian_Parliament.png" alt="The Myth of the Efficacy of a Strong Government in India" />
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
 	<a class="text-dark" href="/aap-significance-indian-politics">The Unreasonable Significance of AAP in Indian Politics</a>
 	</h2>
 	<p class="excerpt">
@@ -636,7 +669,7 @@
 
 	<div class="col-md-3 pr-0 text-right">
 	<a href="/aap-significance-indian-politics">
-	<img class="w-100" src="/assets/images/publish_research.jpg" alt="The Unreasonable Significance of AAP in Indian Politics" />
+	<img class="w-100" src="/assets/images/aam_aadmi_party.jpg" alt="The Unreasonable Significance of AAP in Indian Politics" />
 	</a>
 	</div>
 

@@ -1,4 +1,4 @@
-I"�U<div class="container">
+I"�U<div class="container">
     
 
     
@@ -11,15 +11,15 @@
     
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
-    <a href="/aap-significance-indian-politics">
-    <div class="topfirstimage" style="background-image: url( /assets/images/aam_aadmi_party.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
+    <a href="/strong-vs-coalition-government-in-india">
+    <div class="topfirstimage" style="background-image: url( /assets/images/Indian_Parliament.png); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
-    <a class="text-dark" href="/aap-significance-indian-politics">The Unreasonable Significance of AAP in Indian Politics</a>
+    <a class="text-dark" href="/strong-vs-coalition-government-in-india">The Myth of the Efficacy of a Strong Government in India</a>
     </h2>
     <p class="excerpt">
-        In the history of Independent India, much like other democracies, major political parties have either gravitated around a particular ...
+        As many stories go, once upon a time, there lived a king. The king’s name was Muhammad bin Tughluq and he was the Sultan of Delhi fro...
     </p>
     <div>
         <small class="d-block text-muted">
@@ -30,7 +30,7 @@
                 </span>                   
         </small>
         <small class="text-muted">
-            Feb 16, 2020
+            Feb 23, 2020
         </small>
     </div>
     </div>
@@ -42,8 +42,33 @@
         <!-- second latest post --><div class="mb-3 d-flex align-items-center">                
                 
                 <div class="col-md-4">
+                <a href="/aap-significance-indian-politics">
+                 <img class="w-100" src="http://0.0.0.0:4000/assets/images/aam_aadmi_party.jpg" alt="The Unreasonable Significance of AAP in Indian Politics" />
+                </a>
+                </div>
+                                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="/aap-significance-indian-politics">The Unreasonable Significance of AAP in Indian Politics</a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        In <span class="catlist">
+                        
+                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#politics">Politics</a><span class="sep">, </span>
+                        
+                        </span>                   
+                    </small>
+                    <small class="text-muted">
+                        Feb 16, 2020
+                    </small>
+                </div>
+            </div>
+        
+        <!-- third latest post --><div class="mb-3 d-flex align-items-center">                
+                
+                <div class="col-md-4">
                 <a href="/openly-publish-research">
-                 <img class="w-100" src="http://0.0.0.0:4000/assets/images/publish_research.jpg" alt="Should the government dabble into AI researchers’ preference to publish openly?" />
+                 <img class="w-100" src="/assets/images/publish_research.jpg" alt="Should the government dabble into AI researchers’ preference to publish openly?" />
                 </a>
                 </div>
                                 
@@ -64,11 +89,11 @@
                 </div>
             </div>
         
-        <!-- third latest post --><div class="mb-3 d-flex align-items-center">                
+        <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">                
                 
                 <div class="col-md-4">
                 <a href="/a-tale-of-two-dynasties">
-                 <img class="w-100" src="/assets/images/mughal_congress.png" alt="A Tale of Two Dynasties" />
+                <img class="w-100" src="/assets/images/mughal_congress.png" alt="A Tale of Two Dynasties" />
                 </a>
                 </div>
                                 
@@ -91,38 +116,13 @@
                 </div>
             </div>
         
-        <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">                
-                
-                <div class="col-md-4">
-                <a href="/perspectives-indian-nationalism">
-                <img class="w-100" src="/assets/images/indian_nationalism.jpg" alt="Perspectives on Indian Nationalism" />
-                </a>
-                </div>
-                                
-                <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="/perspectives-indian-nationalism">Perspectives on Indian Nationalism</a>
-                    </h2>
-                    <small class="d-block text-muted">
-                        In <span class="catlist">
-                        
-                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#history">History</a><span class="sep">, </span>
-                        
-                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#culture">Culture</a><span class="sep">, </span>
-                        
-                        </span>                   
-                    </small>
-                    <small class="text-muted">
-                        Jan 19, 2020
-                    </small>
-                </div>
-            </div>
-        
     </div>
     
 </div>
     
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
+ 
+
  
 
  
@@ -233,10 +233,40 @@
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/strong-vs-coalition-government-in-india">The Myth of the Efficacy of a Strong Government in India</a>
+	</h2>
+	<p class="excerpt">
+	   As many stories go, once upon a time, there lived a king. The king’s name was Muhammad bin Tughluq and he was the Sultan of Delhi from 1325 to 1351. He ruled over much of north India ...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#politics">Politics</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Feb 23, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/strong-vs-coalition-government-in-india">
+	<img class="w-100" src="/assets/images/Indian_Parliament.png" alt="The Myth of the Efficacy of a Strong Government in India" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
 	<a class="text-dark" href="/aap-significance-indian-politics">The Unreasonable Significance of AAP in Indian Politics</a>
 	</h2>
 	<p class="excerpt">
-	   In the history of Independent India, much like other democracies, major political parties have either gravitated around a particular family, ideology, caste, religion, culture, ethnic...
+	   In the history of Independent India, much like other democracies, political parties have either gravitated around a particular ideology, caste, religion, culture, ethnic or linguistic...
 	</p>
 	<small class="d-block text-muted">
 		In <span class="catlist">
@@ -497,38 +527,6 @@
 	<div class="col-md-3 pr-0 text-right">
 	<a href="/defining-politics">
 	<img class="w-100" src="/assets/images/politics.jpg" alt="Defining Politics" />
-	</a>
-	</div>
-
-</div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/gandhi">Gandhi</a>
-	</h2>
-	<p class="excerpt">
-	   How to introduce Gandhi to somebody who knows not much about him? In fact, how to interpret Gandhi oneself? It’s interesting to think that he seems to be so approachable and yet so di...
-	</p>
-	<small class="d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#history">History</a><span class="sep">, </span>
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#biography">Biography</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Oct 02, 2019
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/gandhi">
-	<img class="w-100" src="/assets/images/gandhi.jpg" alt="Gandhi" />
 	</a>
 	</div>
 
