@@ -1,12 +1,12 @@
 # Site
 name: 'Siddharth'
-description: 'Engineer. Neuroscientist. Author.'
+description: 'Indian. Vegetarian. Engineer. Computational Neuroscientist. Writer.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'demowebsite'
-email: 'TBD@TBD.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+email: 'sid.sapien@gmail.com'
+mailchimp-list: 'https://feedburner.google.com/fb/a/mailverify?uri=ssiddharth/xkbQ&amp'
 
 include: ["_pages"]
 permalink: /:title/
@@ -22,10 +22,10 @@ authors:
     Siddharth:
       name:           Siddharth
       site:           https://www.ssiddharth.in
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         /assets/images/my_avatar.jpg
       bio:            "Hi, I am Siddharth!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/
+      email:          sid.sapien@gmail.com
+      twitter:        https://twitter.com/SSiddharth_IN
  
 # Defaults
 defaults:
@@ -35,8 +35,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: Siddharth
+      avatar: /assets/images/my_avatar.jpg
       
   # all pages
   - scope:
