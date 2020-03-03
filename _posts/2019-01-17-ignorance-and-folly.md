@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Of ignorance and folly"
+title:  "Of Ignorance and Folly"
 categories: [History, Biography]
 author: Siddharth
 image: assets/images/gandhi_sarojini_naidu.jpg

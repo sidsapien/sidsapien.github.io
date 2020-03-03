@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The curse of the bombardment of information"
+title:  "The Curse of the Bombardment of Information"
 categories: [Others]
 author: Siddharth
 image: assets/images/information_clutter.jpg

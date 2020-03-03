@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reminiscing the visit to a synagogue"
+title:  "Reminiscing the Visit to a Synagogue"
 categories: [Religion]
 author: Siddharth
 image: assets/images/religious_symbols.png

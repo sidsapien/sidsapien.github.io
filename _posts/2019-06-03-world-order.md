@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Is the World Order fundamentally changing?"
+title:  "Is the World Order Fundamentally Changing?"
 categories: [History, International Affairs]
 author: Siddharth
 image: assets/images/un_general_assembly.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The impending death of biography"
+title:  "The Impending Death of Biography"
 categories: [Biography]
 author: Siddharth
 image: assets/images/biographies.jpg

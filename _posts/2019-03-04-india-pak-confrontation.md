@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Some observations on the recent India-Pak confrontation"
+title:  "Some Observations on the Recent India-Pak Confrontation"
 categories: [Politics]
 author: Siddharth
 image: assets/images/india_pakistan_flags.jpg

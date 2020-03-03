@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Two agendas for the wish list of Indian Democracy"
+title:  "Two Agendas for the Wish List of Indian Democracy"
 categories: [Politics, History]
 author: Siddharth
 image: assets/images/election_voting.jpg

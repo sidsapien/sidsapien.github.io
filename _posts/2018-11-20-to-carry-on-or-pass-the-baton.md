@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "To carry on or pass the baton"
+title:  "To Carry On or Pass the Baton"
 categories: [Others]
 author: Siddharth
 image: assets/images/pass_the_baton.jpg

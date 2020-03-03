@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Should the government dabble into AI researchers’ preference to publish openly?"
+title:  "Should the Government Dabble into AI Researchers’ Preference to Publish Openly?"
 categories: [Policy]
 author: Siddharth
 image: assets/images/publish_research.jpg

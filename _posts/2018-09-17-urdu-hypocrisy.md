@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A fine example of classic hypocrisy"
+title:  "A Fine Example of Classic Hypocrisy"
 categories: [History, Politics, Culture]
 author: Siddharth
 image: assets/images/ghalib_book.jpg
