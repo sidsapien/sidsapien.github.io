@@ -45,12 +45,11 @@ description: "My personal webpage"
     </div>
     
     <div class="col-md-6">
+        
+        <img class="rounded-circle" src="assets/images/my_avatar.jpg" height = auto alt="{{author.name}}" width="80" align="left" HSPACE="8" VSPACE="25" />
+        <small class="ml-4"> <p>I am Siddharth, an Indian, Vegetarian, Engineer, Computational Neuroscientist, and Writer. Here, I publish posts on various topics. <u><i> Views expressed are personal.</i></u> To know more about me, <i><a href="https://ssiddharth.in/about-me">click here.</i></a></p></small>
 
-        <img class="rounded-circle" src="assets/images/my_avatar.jpg" alt="{{author.name}}" width="80" align="left" HSPACE="8" VSPACE="25" />
-        <small class="ml-4"> <p>I am Siddharth, an Indian, Vegetarian, Engineer, Computational Neuroscientist, and Writer. Here, I publish posts on various topics. <u><i> Views expressed are personal.</i></u> To know more about me, <a href="https://ssiddharth.in/about-me">click here.</a></p></small>
-
-        <hr align="left">
-
+        <hr style="text-align:left;margin-left:0;;margin-bottom:25px;height:3px">
 
         <!-- second latest post -->
         {%- assign second_post = site.posts[1] -%}        
@@ -58,7 +57,7 @@ description: "My personal webpage"
                 {% if second_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{second_post.url}}">
-                 <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
+                 <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}" position="relative">
                 </a>
                 </div>
                 {% endif %}                

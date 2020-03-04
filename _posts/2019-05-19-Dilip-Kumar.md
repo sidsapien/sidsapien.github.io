@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dilip Kumar: A synonym of perfection"
+title:  "Dilip Kumar: A Synonym of Perfection"
 categories: [Cinema]
 author: Siddharth
 image: assets/images/dilip_kumar.jpg
