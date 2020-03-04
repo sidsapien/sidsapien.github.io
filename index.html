@@ -44,10 +44,12 @@ description: "My personal webpage"
     </div>
     </div>
     
-    <div class="col-md-6">
+    <div class="col-md-6" >
         
-        <img class="rounded-circle" src="assets/images/my_avatar.jpg" height = auto alt="{{author.name}}" width="80" align="left" HSPACE="8" VSPACE="25" />
-        <small class="ml-4"> <p>I am Siddharth, an Indian, Vegetarian, Engineer, Computational Neuroscientist, and Writer. Here, I publish posts on various topics. <u><i> Views expressed are personal.</i></u> To know more about me, <i><a href="https://ssiddharth.in/about-me">click here.</i></a></p></small>
+        <!--div class="bg-lightblue rounded" style="margin: -20px 0px 0px 0px;" -->
+            <img class="rounded-circle" src="assets/images/my_avatar.jpg" height = auto alt="{{author.name}}" width="80" align="left" HSPACE="8" VSPACE="25" />
+            <small class="ml-4"> <p>I am Siddharth, an Indian, Vegetarian, Engineer, Computational Neuroscientist, and Writer. Here, I publish posts on various topics. <u><i> Views expressed are personal.</i></u> To know more about me, <i><a href="https://ssiddharth.in/about-me">click here.</i></a></p></small>
+        <!-- /div -->
 
         <hr style="text-align:left;margin-left:0;;margin-bottom:25px;height:3px">
 
@@ -57,7 +59,7 @@ description: "My personal webpage"
                 {% if second_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{second_post.url}}">
-                 <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}" position="relative">
+                 <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{site.baseurl}}/{{ second_post.image }}{% endif %}" alt="{{ second_post.title }}" position="relative">
                 </a>
                 </div>
                 {% endif %}                
@@ -112,7 +114,7 @@ description: "My personal webpage"
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
 {% for post in site.posts %} 
 {% if post.tags contains "sticky" %}
-<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
+<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue rounded position-relative">
     <div class="pl-4 pr-0 h-100 tofront">
         <div class="row justify-content-between">
             <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
