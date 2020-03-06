@@ -5,7 +5,7 @@ categories: [History, Politics]
 author: Siddharth
 image: assets/images/india_usa.jpg
 permalink: knowledge-transfer-between-natural-allies
-tags: [Democracy, India, USA]
+tags: [Democracy, India, America]
 ---
 A decade ago, President Barack Obama termed the United States of America and India as natural allies. One is the world's oldest democracy while the other is its largest. Both nations are highly diverse across multiple sociological and cultural axes. Perhaps the biggest casualty of the Cold War was the relationship between these two “natural allies.” Anyhow, now when these two democracies are closer than ever before, it might be a good time to reflect on what they can learn from each other. Situated at the opposite ends of the globe as bastions of plural societies, they are bound to play major roles in the twenty-first century.
 

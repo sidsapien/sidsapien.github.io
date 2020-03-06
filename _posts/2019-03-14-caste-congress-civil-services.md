@@ -5,7 +5,7 @@ categories: [History, Politics]
 author: Siddharth
 image: assets/images/ambedkar_statue.jpg
 permalink: caste-congress-civil-services
-tags: [Congress, Caste, Civil Services, Nehru, Ambedkar]
+tags: [Congress, Caste, CivilServices, Nehru, Ambedkar]
 ---
 There is an old adage that thou shalt not drink water from a stagnant body. It is ironical that the stability which helps a water body transform itself into an ecosystem, when sustained over a long period, itself leads to the putrid decay of the water body. This has been the case with three institutions in India: Caste, Congress and Civil Services (as listed in decreasing order of decay). These three institutions have played their part in providing remarkable stability to India at different times in history. But, today these institutions confront new ideas and challenges. All three require transformation or else the first may lead to civil conflict, the second will pave the way forward to the decline of our democracy, and the third will hamper India's ambitions in the 21st century.
 

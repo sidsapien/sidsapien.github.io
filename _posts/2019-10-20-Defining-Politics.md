@@ -5,7 +5,7 @@ categories: [Politics]
 author: Siddharth
 image: assets/images/politics.jpg
 permalink: defining-politics
-tags: [Politics, Gandhi, Congress]
+tags: [Gandhi, Congress]
 ---
 The word "politics" comes from the Greek word "politikos" which means pertaining to the affairs of the state or its citizens. Politics has been variously defined as the process by which a society chooses the rules that will govern it; the activities within an organization that are aimed at improving someone's status or position; the art of the possible; the art of the impossible. Among these academic and rhetoric definitions, let me propose a new one: Politics is a suboptimal process by which limited resources in an institution are allocated in a manner that maximizes its stability. Let us look into each part of this definition in detail below.
 

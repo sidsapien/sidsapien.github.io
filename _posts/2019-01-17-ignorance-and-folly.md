@@ -5,7 +5,7 @@ categories: [History, Biography]
 author: Siddharth
 image: assets/images/gandhi_sarojini_naidu.jpg
 permalink: of-ignorance-and-folly
-tags: [Steinbeck, Statistics, Gandhi, Sarojini Naidu, Women]
+tags: [Steinbeck, Gandhi, SarojiniNaidu, Feminism]
 ---
 One of my favorite novelists, John Steinbeck in his popular novella Of Mice and Men wrote that the best-laid schemes of mice and men often go awry. This is something every graduate student can easily relate to. While pursuing research in any field we, the graduate students, often chart bold and ambitious plans and yet are usually - if not always - unable to fulfill them in time due to a variety of unforeseen circumstances. In any undergraduate coursework, we learn about the relationships of causation and correlation between events/trends and are often cautioned against performing unrealistic extrapolation. Yet, what would one call a professor who commits the same mistakes - crimes since s/he is a faculty - except ignorance and folly?
 

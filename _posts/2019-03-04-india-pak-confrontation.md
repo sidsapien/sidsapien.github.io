@@ -5,7 +5,7 @@ categories: [Politics]
 author: Siddharth
 image: assets/images/india_pakistan_flags.jpg
 permalink: india-pak-recent-confrontation
-tags: [Pulwama, Balakot, Modi, IAF, Pakistan, Abhinandan, Kashmir]
+tags: [Pulwama, Balakot, Modi, IAF, Pakistan, Kashmir]
 ---
 This article has been hurriedly and succinctly written to present some observations which came out of various conversations with friends over the last week, most notably with Nikhil. However, all views, as well as any inaccuracies, are mine alone.
 

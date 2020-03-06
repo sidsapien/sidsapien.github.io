@@ -1,0 +1,41 @@
+---
+title: "Navigation"
+layout: default
+permalink: "/navigation.html"
+---
+
+<div class="container">
+<!--h4 class="font-weight-bold spanborder"><span>{{page.title}}</span></h4-->
+    <div class="row gap-y listrecent listrecent listauthor">
+        <div class="col-lg-12 mb-4">
+            <div class = "row">
+
+                <div class="col-md-4 mb-4 mb-md-0" style="margin-right: 70px;"">
+                    <p>
+                        <h1 class="mb-3">Categories</h1>
+                        {% for catg in site.categories %}
+                            <a href="/categories.html#{{ catg[0] | downcase }}" style="font-size: {{ catg[1] | size | times: 1.5 | plus: 10 }}px">
+                                {{ catg[0] }}
+                            </a>
+                        {% endfor %}
+                    </p> 
+                </div>
+
+
+                <div class="col-md-7">
+                    <p>
+                        <h1 class="mb-3">Tags</h1>
+                        {% for tag in site.tags %}
+                            {%- if tag[0] != "featured" and tag[0] != "sticky" -%}
+                            <a href="/tags.html#{{ tag[0] | downcase }}" style="font-size: {{ tag[1] | size | times: 1.5 | plus: 10 }}px">
+                                {{ tag[0] }}
+                            </a>
+                            {%- endif -%}
+                        {% endfor %}
+                    </p> 
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>

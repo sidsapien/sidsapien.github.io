@@ -5,7 +5,7 @@ categories: [Cinema]
 author: Siddharth
 image: assets/images/dilip_kumar.jpg
 permalink: dilip-kumar
-tags: [Dilip Kumar, Dev Anand, Bimal Roy, Madhumati]
+tags: [DilipKumar, DevAnand, BimalRoy, Madhumati]
 ---
 After the battering that I received over my last post, I thought, I should stick to a (hopefully) less controversial topic: the greatest Bollywood actor of all time.
 

@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Whither India?"
-categories: [Politics, International Affairs]
+categories: [Politics, InternationalAffairs]
 author: Siddharth
 image: assets/images/india_across_time.jpg
 permalink: whither-india
-tags: [Kashmir, BJP, Economy, Congress, Tagore]
+tags: [Kashmir, BJP, Economy, Congress, GDP]
 ---
 <i>"Two roads diverged in a wood, and I, I took the one less traveled by,</i>
 

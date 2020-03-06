@@ -5,7 +5,7 @@ categories: [History, Politics]
 author: Siddharth
 image: assets/images/mughal_congress.png
 permalink: a-tale-of-two-dynasties
-tags: [Akbar, Jahangir, Shah Jahan, Aurangzeb, Nehru, Indira Gandhi, Rajiv Gandhi, Rahul Gandhi, Ibn Khaldun]
+tags: [Akbar, Jahangir, ShahJahan, Aurangzeb, Nehru, IndiraGandhi, RajivGandhi, RahulGandhi, IbnKhaldun]
 ---
 There once lived a great emperor by the name, Jalal-ud-din Muhammad Akbar. He ruled over the Mughal Empire which he expanded to include most of the Indian subcontinent. He was born in a life of privilege with his forefathers laying the foundation of the Mughal dynasty. However, Akbar's forefathers bequeathed him an empire not very large in size. Unlike them, Akbar was born on Indian soil. Having traveled across many parts of India during his childhood for purposes other than military campaigns, Akbar started to love the land of his birth. After gaining power, he started to Indianize the Mughal administration. His kingdom saw the refinement of Islamic architecture with the addition of Indian elements and the launch of a new religion, <i> Din-i Ilahi </i> which was a syncretic creed derived from the principles of all main religions of the subcontinent as well as Islam and Christianity. Under his patronage, Akbar's court became the most famous gathering of artists, economists, scholars, poets, architects, etc. to date. "Navratnas" as they used to be called were Akbar's ministers who helped in consolidating his rule across India and added a milieu of cultural diversity. 
 

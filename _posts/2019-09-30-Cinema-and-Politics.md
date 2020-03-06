@@ -5,7 +5,7 @@ categories: [Cinema, Politics]
 author: Siddharth
 image: assets/images/cinema_politics.jpg
 permalink: parallels-between-cinema-and-politics-in-india
-tags: [Cinema, Politics]
+tags: [Bollywood]
 ---
 The state of any medium of cultural expression such as art, cinema, music, theater, etc. is reflected in the politics of that society. Talking about today's nation-states, generally, the governments to the left of the political spectrum (but not too far left) support the flourishment and portrayal of new ideas while those on the right try to curb them. Sans political ideology, the other axis through which we can focus on this spectrum of freedom of cultural expression can be the dynamic between the course that the nation is taking due to the government's policies and its public perception. As an example, this connection is easily observable in how Indian cinema, especially Bollywood, evolved in the past eighty years.
 
