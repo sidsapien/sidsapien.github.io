@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Many Implications of the COVID-19 Pandemic"
+title:  "The Many Geopolitical Implications of the COVID-19 Pandemic"
 categories: [InternationalAffairs, Politics, Economics]
 author: Siddharth
 image: assets/images/coronavirus_mask.jpg
