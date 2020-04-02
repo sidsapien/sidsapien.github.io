@@ -1,12 +1,23 @@
 # Site
 name: 'Siddharth'
-description: 'Indian. Vegetarian. Engineer. Computational Neuroscientist. Writer.'
+description: 'Engineer. Computational Neuroscientist. Writer. Writes blogs on International Affairs, History, and Politics. Author of the book Founding Generations'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'demowebsite'
 email: 'sid.sapien@gmail.com'
 mailchimp-list: 'https://feedburner.google.com/fb/a/mailverify?uri=ssiddharth/xkbQ&amp'
+
+# for SEO tagging
+title: Siddharth's personal website.
+tagline: Engineer. Computational Neuroscientist. Writer.
+url: https://ssiddharth.in
+twitter: https://twitter.com/SSiddharth_IN
+facebook: https://www.facebook.com/siddharth.sapien
+description: Engineer. Computational Neuroscientist. Writer. Writes blogs on International Affairs, History, and Politics. Author of the book Founding Generations
+webmaster_verification:
+  google: -Ae1kn9zfaHIXCLcWqbmY9sxnTJ_FTRDschRp6lD9x8
+
 
 include: ["_pages"]
 permalink: /:title/
@@ -21,7 +32,7 @@ plugins:
 authors:
     Siddharth:
       name:           Siddharth
-      site:           https://www.ssiddharth.in
+      site:           https://ssiddharth.in
       avatar:         /assets/images/my_avatar.jpg
       bio:            "Hi, I am Siddharth!"
       email:          sid.sapien@gmail.com
