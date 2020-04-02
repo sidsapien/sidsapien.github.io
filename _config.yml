@@ -1,6 +1,6 @@
 # Site
 name: 'Siddharth'
-description: 'Engineer. Computational Neuroscientist. Writer. Writes blogs on International Affairs, History, and Politics. Author of the book Founding Generations'
+description: 'Engineer. Computational Neuroscientist. Writer. Author of the book Founding Generations. Writes blogs on International Affairs, History, and Politics.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
@@ -14,9 +14,11 @@ tagline: Engineer. Computational Neuroscientist. Writer.
 url: https://ssiddharth.in
 twitter: https://twitter.com/SSiddharth_IN
 facebook: https://www.facebook.com/siddharth.sapien
-description: Engineer. Computational Neuroscientist. Writer. Writes blogs on International Affairs, History, and Politics. Author of the book Founding Generations
+description: Engineer. Computational Neuroscientist. Writer. Author of the book Founding Generations. Writes blogs on International Affairs, History, and Politics.
+logo: assets/images/my_avatar.jpg
 webmaster_verification:
   google: -Ae1kn9zfaHIXCLcWqbmY9sxnTJ_FTRDschRp6lD9x8
+
 
 
 include: ["_pages"]
