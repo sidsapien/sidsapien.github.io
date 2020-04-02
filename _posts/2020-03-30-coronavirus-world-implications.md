@@ -6,7 +6,7 @@ author: Siddharth
 image: assets/images/coronavirus_mask.jpg
 permalink: coronavirus-world-implications
 tags: [Coronavirus, COVID-19, America, China, Shakespeare]
-description: The post-Coronavirus world would be a very different place.
+description: The post-Coronavirus world would be a very different place to live.
 ---
 Human beings are perhaps cognitively wired for reacting faster to events that come as a sudden shock or stimulate loyal sentiments connected with social identity (race, religion, nation, etc.) than to processes spread over a longer period of time. Thus, the urgency of response by governments across the world to the 9/11 attacks, the COVID-19 pandemic, and global warming lie along a line facing southward while these events unfolded or are unfolding in ascending order of time duration. This cognitive bias manifests itself despite the fact that the likelihood of these three events threatening the survival of our species varies from least to most likely respectively.
 
