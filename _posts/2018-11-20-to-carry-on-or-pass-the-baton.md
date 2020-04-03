@@ -6,6 +6,7 @@ author: Siddharth
 image: assets/images/pass_the_baton.jpg
 permalink: to-carry-on-or-pass-the-baton
 tags: [Shakespeare, Retirement, SachinTendulkar, SushmaSwaraj, Washington, featured]
+description: Is there a right time to retire?
 ---
 Shakespeare beautifully wrote, "There is a tide in the affairs of men, Which taken at the flood, leads on to fortune. Omitted, all the voyage of their life is bound in shallows and in miseries". He might have also added that men should realize when the voyage has come to an end, and not continue exerting themselves against the shore, for that too leads to miseries, usually in the candid judgment of history.
 

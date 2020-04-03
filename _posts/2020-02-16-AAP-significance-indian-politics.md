@@ -6,6 +6,7 @@ author: Siddharth
 image: assets/images/aam_aadmi_party.jpg
 permalink: aap-significance-indian-politics
 tags: [AAP, Kejriwal, BJP, Congress, Modi, SwatantraParty, Rajaji]
+description: The rise of AAP and what it means for India's politics.
 ---
 In the history of Independent India, much like other democracies, political parties have either gravitated around a particular ideology, caste, religion, culture, ethnic or linguistic group or have originated as offshoots of another political party. There have been two exceptions to this general rule. The first was Chakravarti Rajagopalachari's Swatantra Party and the second is Arvind Kejriwal's Aam Aadmi Party (AAP). The former generally propagated capitalistic market reforms as its core value while the latter promulgates free quality education and healthcare as its USP. 
 

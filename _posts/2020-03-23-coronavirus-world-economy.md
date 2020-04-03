@@ -6,6 +6,7 @@ author: Siddharth
 image: assets/images/economic_crisis.jpg
 permalink: coronavirus-world-economy
 tags: [Coronavirus, COVID-19, America, China, India, GDP]
+description: COVID-19 Pandemic has taken us back to the Great Depression.
 ---
 The globalized, industrialized, and incessantly-driven economic world that we live in is similar to an amateur riding a bicycle. The moment he bears a shock, there is a genuine fear of halting down and falling off the ridge. The COVID-19 Pandemic is fast-emerging as the greatest shock of our times to the world economy.
 

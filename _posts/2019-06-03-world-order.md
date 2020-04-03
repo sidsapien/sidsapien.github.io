@@ -6,6 +6,7 @@ author: Siddharth
 image: assets/images/un_general_assembly.jpg
 permalink: world-order
 tags: [China, Westphalia, America, India, featured]
+description: How Asia and in particular China's rise is changing the world order?
 ---
 On the thirtieth anniversary of Tiananmen Square protests, let us see the fundamental shift that is happening in the world by the rise of China. Many scholars including Former U.S. Secretary of State Henry Kissinger point to the Peace of Westphalia in 1648 as the beginning of the idea of the nation-state. After the Thirty Years' War in Europe, these treaties that were hammered in the mid-seventeenth century pronounced the concept of state sovereignty. It defined that sovereignty of a state shall be exclusive over its territory irrespective of its power or size. This fundamental concept of state sovereignty has never been challenged since. But, the other legacy that these treaties bequeathed was that of a world order centered around the European nations.
 

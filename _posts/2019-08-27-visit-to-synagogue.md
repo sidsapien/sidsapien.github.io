@@ -6,6 +6,7 @@ author: Siddharth
 image: assets/images/religious_symbols.png
 permalink: reminiscing-the-visit-to-a-synagogue
 tags: [Judaism, Sikhism, Synagogue]
+description: Interprating the visit to a syngagogue from Indian perspective.
 ---
 Exactly a year ago, I had received an opportunity to visit a synagogue when my friend, Neil, delighted everyone on our team by announcing that he had just stepped into parenthood and would be hosting a traditional Jewish ceremony to mark the event. His wife had given birth to a beautiful daughter and we all congratulated the couple as soon as we received the pictures of the newborn. Of course, the baby girl had already been named as required in American hospitals before discharging the newborn, but the couple was unwilling to announce her name to us. This was in line with the Jewish tradition whereby the parents reveal the newborn's name to others only at the religious ceremony. I was so excited at the opportunity to witness this ceremony at the synagogue that in the end, I turned out to be the only member of our team to show up!
 

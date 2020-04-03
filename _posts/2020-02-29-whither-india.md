@@ -6,6 +6,7 @@ author: Siddharth
 image: assets/images/india_across_time.jpg
 permalink: whither-india
 tags: [Kashmir, BJP, Economy, Congress, GDP]
+description: Today, India is standing at a crossroad. We must be careful.
 ---
 <i>"Two roads diverged in a wood, and I, I took the one less traveled by,</i>
 

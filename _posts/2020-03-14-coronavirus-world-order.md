@@ -6,6 +6,7 @@ author: Siddharth
 image: assets/images/coronavirus_world_map.png
 permalink: coronavirus-world-order
 tags: [Coronavirus, COVID-19, America, China, India, Italy, sticky]
+description: COVID-19 is already changing the balance of power among nations.
 ---
 It is safe to say that no other single event in the 21st century after the 9/11 attacks has had a greater impact in the geopolitical arena than the Coronavirus disease 2019 (COVID-19) pandemic. What began as a disease traced to a wet animal market in China, the COVID-19 is already shaping geopolitics across the world. While in a democracy, civil rights groups would have almost surely ensured that no wild animals (let alone endangered species like pangolins) could be sold for consumption, in China, the authoritarian government has allowed <a href="https://www.npr.org/sections/goatsandsoda/2020/01/31/800975655/why-theyre-called-wet-markets-and-what-health-risks-they-might-pose">wet animal markets to flourish.</a> As a result, here we are, a delicacy for some has transformed into becoming <a href="https://www.bbc.com/news/av/world-51842838/coronavirus-covid-19-outbreak-can-be-characterised-as-a-pandemic-who">a global pandemic</a> with China itself as its biggest victim.
 

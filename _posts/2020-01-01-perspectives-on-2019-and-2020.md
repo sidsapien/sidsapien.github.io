@@ -6,6 +6,7 @@ author: Siddharth
 image: assets/images/preamble.png
 permalink: reflections-on-2019-for-2020
 tags: [IndiraGandhi, Modi, featured]
+description: What the year 2020 holds for India and Modi?
 ---
 As we enter 2020 today, let me start this write-up with a disclaimer: In India, if Sharma Ji's spoiled son has the single "virtue" of being good at studies, the society exonerates him of seven sins (saat khoon maaf). Confused? Well, the political equivalent of this statement is that a government's shortcomings and disasters are ignored to a large extent when the economy is doing well. If in India of the post-reform era, the economic growth has come to a sub 5% level and has started to hurt the poor, every action taken by the government is seen as a thorn in the flesh. The stalling and worsening economic growth has become for this government the Shakespearean equivalent of Lady Macbeth's "damned spot." Despite the positivity, hope, and optimism that should accompany the inauguration of a new year, an evaluation of 2019 to forecast the nation's polity in 2020 invokes mixed feelings at best.
 

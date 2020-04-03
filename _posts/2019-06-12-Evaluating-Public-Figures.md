@@ -6,6 +6,7 @@ author: Siddharth
 image: assets/images/public_figures.jpg
 permalink: evaluating-public-figures
 tags: [Churchill, Kissinger, Gandhi, Bengal]
+description: It is hard to evaluate those people who have done much good and much evil.
 ---
 It is easy to evaluate the legacy of those public figures who did much good for society and some bad; or those who are remembered in the history of the world because of the havoc they wrought. But, how to evaluate those who invoke extreme emotions on both sides? Two such examples are Winston Churchill and Henry Kissinger. Some classify them as great patriots, ardent nationalists, and grand strategists while many others view them as war criminals. Both were remarkable historians (using the past tense here only to represent Kissinger's active years in public life since he is still amongst us), original thinkers, and had a grand strategic vision for their own nation. Both are despised outside their nations, particularly in Asia, while mostly being admired in their own.
 

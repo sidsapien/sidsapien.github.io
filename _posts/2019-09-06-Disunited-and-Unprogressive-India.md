@@ -6,6 +6,7 @@ author: Siddharth
 image: assets/images/narendra_modi.jpg
 permalink: disunited-and-unprogressive-india
 tags: [Kashmir, Modi, GDP]
+description: How Modi's politics is undermining the idea of India?
 ---
 After winning the general election in May 2019, Prime Minister Narendra Modi had declared, "If anyone has won, it is India. We dedicate this victory to the people of India." The victory of a man, a political party, and an ideology in an election was equated by the prime minister with the triumph of the nation. It did not cross his mind that he, his political party, and its ideology is not even a speck in the vast omnipotent currents that have shaped India across centuries. India has seen a multitude of much more stronger forces (extraordinarily blessed and extremely vile) and has yet remained ancient and modern, transitional and eternal, intolerant and embracing. At best, Prime Minister Modi and his government are a sort of guardians elected democratically by the citizens to take some decisions on their behalf for the next five years. While Prime Minister Modi sold the vision of a United and Progressive India during his election campaign, a hundred days into his second term, the present circumstances look nothing but gloomy.
 

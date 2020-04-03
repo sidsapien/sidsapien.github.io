@@ -6,6 +6,7 @@ author: Siddharth
 image: assets/images/kashmir.jpg
 permalink: abolition-of-article-370-of-the-Constitution-of-India
 tags: [Democracy, Kashmir, Congress, Modi, SushmaSwaraj]
+description: What are the implications of the abrogation of Article 370?
 ---
 Let's start from the beginning. Article 370 was introduced as a temporary measure, to be valid until the formulation and adoption of the state's constitution. The state of Jammu and Kashmir was brought into the rest of the Union with the help of three bridges i.e. terms on which the state acceded to India: defense, communications, and foreign affairs. Since India was neither able to resolve the issue of disputed territory nor build trust among Kashmiris to give up their autonomy, the law enacted as a temporary measure continued. It is open knowledge (even recently acknowledged by the Home Minister in the parliament) that successive elections in Kashmir for decades were rigged by the Indian authorities. Successive governments in the past seven decades also slowly weathered down Article 370 so that in addition to the three bridges mentioned above, many more canals were dug under the beautiful valley to hold it. It is to these measures that we owe so many beautiful movies and songs filmed in Kashmir, the most memorable (in my view) being Kashmir Ki Kali.
 

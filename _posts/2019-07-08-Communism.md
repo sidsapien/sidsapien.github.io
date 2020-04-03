@@ -6,6 +6,7 @@ author: Siddharth
 image: assets/images/communist_symbol.png
 permalink: twentieth-centurys-religion
 tags: [Communism, Democracy]
+description: How Communism is just another religion?
 ---
 As the fruits of the Industrial Revolution transformed the lives of masses around the world and ushered a new era of scientific curiosity, most religions of the world declined in the twentieth century. However, the same fruits and hidden processes of the Industrial Revolution gave rise to a new religion, more potent and lethal in many ways than its predecessors. Whether one considers by the number of followers, the area of the world covered by its theocratic states, or by its rapid rise, the most significant religion of the twentieth century was Marxism. At its peak, Marxism with its various offshoots had a presence on five continents of the world and probably had more followers than its closest competitor, Christianity, with the one major difference—Marxists were much more ideologically fanatical than Christians were in the twentieth century.
 

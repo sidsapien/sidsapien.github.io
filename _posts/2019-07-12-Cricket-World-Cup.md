@@ -6,6 +6,7 @@ author: Siddharth
 image: assets/images/indian_cricket.jpg
 permalink: indias-2019-mens-cricket-world-cup-campaign
 tags: [Dhoni, Bumrah, RohitSharma, Kohli]
+description: India's commendable performance in the 2019 Men's Cricket World Cup.
 ---
 From the past few weeks, I had been planning to write this article on the coming Sunday after victory in the World Cup for India but that was not to be. And so here I am, gloomy, dejected, dispirited, yet proud and nostalgic. Where should I begin? Let's start at the top of our batting lineup.
 

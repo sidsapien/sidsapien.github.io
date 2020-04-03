@@ -6,6 +6,7 @@ author: Siddharth
 image: assets/images/dilip_kumar.jpg
 permalink: dilip-kumar
 tags: [DilipKumar, DevAnand, BimalRoy, Madhumati]
+description: The great Dilip Kumar remains the most versatile and methodic actor ever produced by Bollywood.
 ---
 After the battering that I received over my last post, I thought, I should stick to a (hopefully) less controversial topic: the greatest Bollywood actor of all time.
 

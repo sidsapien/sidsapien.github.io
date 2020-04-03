@@ -6,6 +6,7 @@ author: Siddharth
 image: assets/images/election_voting.jpg
 permalink: two-agendas-indian-democracy-wishlist
 tags: [Muslims, Secularism, Madison]
+description: Two agendas that would make Indian Democracy stronger.
 ---
 In the past seven decades, Indian democracy has matured to a level where we, Indians, can be rightly proud of our democratic achievements. Benjamin Franklin once wrote that the duty of a citizen is to question his government. Thus, I dare to propose two agendas below that should on the wish list of our democracy. Moreover, can there be a more propitious day to discuss this topic than the birth anniversary of B. R. Ambedkar, "Father of the Indian Constitution"?
 

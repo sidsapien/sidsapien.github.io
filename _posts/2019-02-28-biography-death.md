@@ -6,6 +6,7 @@ author: Siddharth
 image: assets/images/biographies.jpg
 permalink: biography-impending-death
 tags: [Cicero, Gutenberg, Washington, Gandhi, featured]
+description: Why the art of writing biography is dying?
 ---
 It may well be that the subject of the last memorable biography you read lived between the seventeenth and mid-twentieth century. We know much more about the lives — public and private — of "famous" personalities from this period than any other in human history. This is because we can glean into their thoughts and ideas from the books/notes that they published. They wrote without the pressure of expressing themselves succinctly (more on this below). For many of them, it is also possible to peek inside their personal lives through the hundreds (sometimes thousands) of letters diligently preserved from their correspondence. The biographers of modern (and future) subjects may never have this luxury. It is for this reason that I say — the past four centuries may well have been the golden age of biography.
 

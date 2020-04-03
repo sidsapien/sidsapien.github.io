@@ -6,6 +6,7 @@ author: Siddharth
 image: assets/images/nehru_gandhi.jpg
 permalink: nehru-and-the-opposition
 tags: [Nehru, Kripalani, Gandhi, Rajaji]
+description: Nehru had immense respect for the role played by Opposition.
 ---
 On his 55th death anniversary, here are three episodes that show Nehru's outlook towards the opposition and which also have contemporary relevance.
 

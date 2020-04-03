@@ -6,7 +6,8 @@ disqus: 'demowebsite'
 email: 'sid.sapien@gmail.com'
 mailchimp-list: 'https://feedburner.google.com/fb/a/mailverify?uri=ssiddharth/xkbQ&amp'
 
-# for SEO tagging
+# for seo tagging
+# Note: Apparently, Facebook and Twitter take some values from below but others like "image" and "description" from index.html
 author: Siddharth
 title: Siddharth's personal website.
 url: https://ssiddharth.in

@@ -6,6 +6,7 @@ author: Siddharth
 image: assets/images/modi_shah.jpg
 permalink: India-upcoming-lok-sabha-elections-2019
 tags: [Modi, BJP, Congress, RahulGandhi]
+description: What will be outcome of the 2019 Indian General Election?
 ---
 This article was originally published [here.](https://prospectjournal.org/2019/02/21/indian-general-election-2019-towards-a-hung-parliament/)
 

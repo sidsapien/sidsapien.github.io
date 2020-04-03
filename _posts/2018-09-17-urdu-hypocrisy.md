@@ -6,6 +6,7 @@ author: Siddharth
 image: assets/images/ghalib_book.jpg
 permalink: urdu-hypocrisy
 tags: [Urdu, Hypocrisy, Hindutva, Ghalib]
+description: Urdu has always been the language of expressing love.
 ---
 कहाँ मयखाने का दरवाज़ा 'ग़ालिब' और कहाँ वाइज़
 पर इतना जानते हैं कल वो जाता था के हम निकले

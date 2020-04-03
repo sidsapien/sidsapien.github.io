@@ -6,6 +6,7 @@ author: Siddharth
 image: assets/images/Ray_Bimal_Hrishida.jpg
 permalink: bengali-triumvirate-cinema
 tags: [Bengal, Gandhi, Bose, BimalRoy, SatyajitRay, HrishiDa]
+description: A tale of three master movie directors hailing from Bengal.
 ---
 Time and again, Bengal has given the world remarkable personalities in every field of human endeavor. Perhaps no other part of the subcontinent has so consistently produced so many remarkable figures. In the nineteenth century, great social reformers like Raja Ram Mohan Roy and Ishwar Chandra Vidyasagar transformed not just Bengal but they also had a great impact on Indian society. Swami Vivekananda placed India proudly and firmly on the world stage with his lecture tours on Hinduism, Advaita philosophy, Vedanta, and Yoga. Subsequently, the first part of the twentieth century was dominated by the forceful personalities of Rabindranath Tagore and Subhas Chandra Bose. During the same time, the Bengali Bhadralok could never forget and forgive the eccentric Gujarati who suddenly emerged as the leader of the freedom movement. This came as a shock to them since the earliest and most dominant voice against the British-rule had emerged from Bengal in 1905 when the province was about to be partitioned. Bengal continued to have a complex relationship with Gandhi because of the latter's dynamics with C. R. Das and Subhas Bose. 
 

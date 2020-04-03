@@ -6,6 +6,7 @@ author: Siddharth
 image: assets/images/nuclear_NK.png
 permalink: nuclear-north-korea-implications
 tags: [NorthKorea, NuclearWeapons, America, China]
+description: A nuclear North Korea may spell disaster for the world.
 ---
 I would like to start with a quote. Lord Acton the English historian famously said, “Power tends to corrupt, and absolute power corrupts absolutely.”
 
