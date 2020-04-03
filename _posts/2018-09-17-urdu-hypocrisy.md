@@ -3,7 +3,7 @@ layout: post
 title:  "A Fine Example of Classic Hypocrisy"
 categories: [History, Politics, Culture]
 author: Siddharth
-image: assets/images/ghalib_book.jpg
+image: assets/images/urdu_poetry.jpg
 permalink: urdu-hypocrisy
 tags: [Urdu, Hypocrisy, Hindutva, Ghalib]
 description: Urdu has always been the language of expressing love.
