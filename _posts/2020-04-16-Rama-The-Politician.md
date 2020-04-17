@@ -6,7 +6,7 @@ author: Siddharth
 image: assets/images/rama.png
 permalink: rama-the-politician
 tags: [Ramayana, Rama, Krishna, Mahabharata]
-description: COVID-19 is helping in strengthening the roots of Federalism in India.
+description: Rama was also very adept at playing politics.
 ---
 रघुकुल रीत सदा चली आई, प्राण जाई पर वचन न जाई, 
 this single sentence overwhelmingly dominates most discussions around Rama. Rama is often portrayed as a monolithic figure in whose character there were only two shades: white and black. Rama is depicted as somebody devoid of any nuances in character. Sita's exile toward the end of Ramayana (which as a matter of fact is not mentioned in Valmiki's Ramayana) is expounded as the supreme example of the lack of elasticity in Rama's thought process. 
