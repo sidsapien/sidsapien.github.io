@@ -3,7 +3,7 @@ layout: post
 title:  "WANTED: HEALTHY OPPOSITION"
 categories: [Politics, History]
 author: Siddharth
-image: assets/images/india_parliament.png
+image: assets/images/Indian_Parliament.png
 permalink: wanted-healthy-opposition
 tags: [Rajaji, Congress, Jefferson, Hamilton, Nehru]
 description: India is in dire need of a strong opposition.
