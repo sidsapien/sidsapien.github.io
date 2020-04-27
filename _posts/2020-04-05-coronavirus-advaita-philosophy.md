@@ -5,7 +5,7 @@ categories: [Philosophy, Religion, History]
 author: Siddharth
 image: assets/images/sringeri_temple.jpg
 permalink: coronavirus-advaita-philosophy
-tags: [Coronavirus, COVID-19, India, Advaita, Shankaracharya, Brahma]
+tags: [Coronavirus, COVID-19, India, Advaita, Shankaracharya, Brahma, sticky]
 description: What Advaita school of Hinduism can teach us about ourselves and Mother Nature during the Coronavirus pandemic?
 ---
 It is said that an idle mind is the devil's playground. Perhaps an idle mind is also the philosopher's playground. Which among the two is more dangerous, I rest upon your judgment. With self-imposed isolation forced by the COVID-19 pandemic, there is much time at hand to contemplate abstract notions like the meaning of life which, I am told, people also do in an intoxicated state of mind. 
