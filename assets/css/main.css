@@ -7311,7 +7311,7 @@ a.text-lightblue:hover, a.text-lightblue:focus {
   h3 {
     page-break-after: avoid; }
   @page {
-    size: a3; }
+    size: a4; }
   body {
     min-width: 992px !important; }
   .container {
