@@ -5,7 +5,7 @@ categories: [History, Politics]
 author: Siddharth
 image: assets/images/nehru_tryst_with_destiny.jpg
 permalink: nehru-tryst-with-progeny
-tags: [Congress, Rajaji, SardarPatel, RamGuha]
+tags: [Nehru, Congress, Rajaji, SardarPatel, RamGuha]
 description: Nehru's Tryst with Destiny has given way to something else.
 ---
 Four score and seven years ago, millions in India celebrated Independence Day for the first time after the declaration of Purna Swaraj a few months ago. The president of Congress who drafted and passed the resolution for complete independence of India, and even persuaded Mahatma Gandhi for the same was none other than Jawaharlal Nehru. This essay is about his bitter tryst with progeny.
