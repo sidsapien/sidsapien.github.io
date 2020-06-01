@@ -14,13 +14,13 @@ url: https://ssiddharth.in
 type: website
 image: assets/images/my_avatar.jpg
 twitter: 
-  username: SSiddharth_IN
+  username: SidSapien
   card: summary_large_image
 social:
   name: Siddharth
   links: 
     - https://www.facebook.com/siddharth.sapien
-    - https://twitter.com/SSiddharth_IN
+    - https://twitter.com/SidSapien
 description: Engineer. Computational Neuroscientist. Writer. Author of the book Founding Generations. Writes blogs on International Affairs, History, and Politics.
 logo: assets/images/my_avatar.jpg
 webmaster_verification:
@@ -47,7 +47,7 @@ authors:
       avatar:         /assets/images/my_avatar.jpg
       bio:            "Hi, I am Siddharth!"
       email:          sid.sapien@gmail.com
-      twitter:        https://twitter.com/SSiddharth_IN
+      twitter:        https://twitter.com/SidSapien
  
 # Defaults
 defaults:
