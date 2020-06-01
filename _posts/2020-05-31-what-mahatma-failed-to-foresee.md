@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Cities, Big Business, Entrepreneurs: Mahatma Failed to Foresee Them and We are Paying Today"
+title:  "Cities, Big Business, Entrepreneurs: Mahatma Abhorred Them and We are Paying Today"
 categories: [Culture, History, Policy]
 author: Siddharth
 image: assets/images/gandhi_spinning.jpg
 permalink: what-mahatma-failed-to-foresee
 tags: [Gandhi, Cities, Socialism]
-description: We are even today paying for Gandhi's abhorrence toward cities, big business, and entrepreneurs.
+description: Gandhi's abhorrence toward cities, big business, and entrepreneurs has been borrowed by our politicians and we are paying even today.
 ---
 There have been many great men and women whose contributions to contemporary Indian society are evident in our day-to-day lives. Buddha, Mahavira, Ashoka, Adi Shankaracharya, Kabir, Guru Nanak, Akbar, Savitribai Phule, Mohandas Gandhi, Jawaharlal Nehru, Mother Teresa, are just a few of the names of those revered souls whose thoughts and actions still pervade the society—like a subterranean river flowing beneath the rocks but crucial to the existence of the whole landscape. 
 
