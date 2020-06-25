@@ -6,7 +6,7 @@ author: Siddharth
 image: assets/images/modi_xi.jpg
 permalink: medieval-china-and-modi-moment-of-truth
 tags: [China, Modi, Economy, America, ArmedForces]
-description: Today's China is a throwback to its past history while India stands at crossroads.
+description: Today's China is a throwback to its past history while India under Prime Minister Modi stands at historic crossroads.
 ---
 Through the many powerful dynasties that ruled over China, the greatest ambition of the various kings used to be the propagation of their unquestioned authority over as large an area as possible. They subscribed to the ancient adage that China is the Middle Kingdom (<i>Zhongguo</i>) while all peripheral territories are either its vassals or inconsequential. Furthermore, the king was said to be bequeathed with the Mandate of Heaven by the gods to rule and thus was the only legitimate ruler under the Sun. This power structure of the Chinese society was millennia old even when the Ming Dynasty ruled five hundred years ago. 
 
