@@ -3,7 +3,7 @@ layout: post
 title:  "Cities, Big Business, Entrepreneurs: Mahatma Abhorred Them and We are Paying Today"
 categories: [Culture, History, Policy]
 author: Siddharth
-image: assets/images/gandhi_spinning.jpg
+image: assets/images/modi_xi.jpg
 permalink: what-mahatma-failed-to-foresee
 tags: [Gandhi, Cities, Socialism]
 description: Gandhi's abhorrence toward cities, big business, and entrepreneurs has been borrowed by our politicians and we are paying even today.

@@ -3,7 +3,7 @@ layout: post
 title:  "China's Medieval Mindset and Prime Minister Modi's Moment of Truth"
 categories: [History, InternationalAffairs]
 author: Siddharth
-image: assets/images/india_china_flags.jpg
+image: assets/images/modi_xi.jpg
 permalink: medieval-china-and-modi-moment-of-truth
 tags: [China, Modi, Economy, America, ArmedForces]
 description: Today's China is a throwback to its past history while India stands at crossroads.
