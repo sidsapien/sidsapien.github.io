@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mr. Prime Minister, We Are Squarely Behind You. All We Ask For Are Transparency And Statesmanship"
+title:  "Dear Prime Minister, We Are Squarely Behind You. All We Ask For Are Transparency And Statesmanship"
 categories: [Politics, InternationalAffairs]
 author: Siddharth
 image: assets/images/indo_china_border.jpg
