@@ -6,7 +6,7 @@ author: Siddharth
 image: assets/images/happiness_index_countries.jpg
 permalink: India-vs-Highly-Developed-Nations
 tags: [India, Scandanavia, NewZealand, Canada, Tolstoy]
-description: The clamor for an Indian Jacinda Ardern or an Indian Justin Tredeau is misplaced. India is no New Zealand or Canada.
+description: The clamor for an Indian Jacinda Ardern or an Indian Justin Trudeau is misplaced. India is no New Zealand or Canada.
 ---
 Leo Tolstoy's iconic novel Anna Karenina has a famous line: Happy families are all alike; every unhappy family is unhappy in its own way. Tolstoy wrote thus since happy families have many things completed on a common checklist such as love and compatibility between partners and siblings, financial stability, respect toward elders, willingness to put time and effort for each other's well being, etc. The absence of one or more of these attributes renders a family unhappy. 
 
