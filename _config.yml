@@ -1,6 +1,6 @@
 # Site
 name: 'Siddharth'
-description: 'Engineer. Computational Neuroscientist. Writer. Author of the book Founding Generations. Writes blogs on International Affairs, History, and Politics.'
+description: 'Engineer. Computational Neuroscientist. Writer. Editor. Author of the book Founding Generations. Writes on International Affairs, History, and Politics.'
 baseurl: ''
 disqus: 'demowebsite'
 email: 'sid.sapien@gmail.com'
@@ -12,7 +12,7 @@ author: Siddharth
 title: Siddharth's personal website.
 url: https://ssiddharth.in
 type: website
-image: assets/images/my_avatar.jpg
+image: assets/images/my_avatar_post.jpg
 twitter: 
   username: SidSapien
   card: summary_large_image
@@ -21,8 +21,8 @@ social:
   links: 
     - https://www.facebook.com/siddharth.sapien
     - https://twitter.com/SidSapien
-description: Engineer. Computational Neuroscientist. Writer. Author of the book Founding Generations. Writes blogs on International Affairs, History, and Politics.
-logo: assets/images/my_avatar.jpg
+description: Engineer. Computational Neuroscientist. Writer. Editor. Author of the book Founding Generations. Writes on International Affairs, History, and Politics.
+logo: assets/images/my_avatar_post.jpg
 webmaster_verification:
   google: -Ae1kn9zfaHIXCLcWqbmY9sxnTJ_FTRDschRp6lD9x8
 
@@ -44,7 +44,7 @@ authors:
     Siddharth:
       name:           Siddharth
       site:           https://ssiddharth.in
-      avatar:         /assets/images/my_avatar.jpg
+      avatar:         /assets/images/my_avatar_post.jpg
       bio:            "Hi, I am Siddharth!"
       email:          sid.sapien@gmail.com
       twitter:        https://twitter.com/SidSapien
@@ -58,7 +58,7 @@ defaults:
     values:
       layout: post
       author: Siddharth
-      avatar: /assets/images/my_avatar.jpg
+      avatar: /assets/images/my_avatar_post.jpg
       
   # all pages
   - scope:
