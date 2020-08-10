@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Prime Minister Modi's Present Popularity is Indeed Made of Titanium"
+categories: [Politics]
+author: Siddharth
+image: assets/images/narendra_modi.jpg
+permalink: modi-india-today-poll
+tags: [Modi, Economy, Coronavirus, COVID-19, China]
+description: Prime Minister Modi's popularity is at its peak. Data also has many fascinating insights.
+---
+<i>"Data is always sacred. It does not follow the whims of any ideology."</i>
+
+<br>
+
+India Today's Mood of the Nation Poll results have come out. At the outset, let me first outline the obvious. First, the poll was conducted on a little over 12,000 people only. This is not new and has been the case for such "popularity" polls (rather than opinion/exit polls during the Lok Sabha Elections) in the past. Second, due to the COVID-19 pandemic, instead of face to face questioning, the poll was conducted via phone calls. Even taking into consideration reasonable offsets in the trends reported by the poll, the data conclusively points out that Prime Minister Modi's popularity has not only not been tainted but is rather at its peak. To paraphrase, Prime Minister Modi is today as strong a leader as is possible to be in the Indian Democratic system.
+
+This year started with the widespread mass protests over the CAA-NRC fiasco which had rattled the government to the point that it had to go back on its declaration of holding a nationwide NRC. As the year progressed, more and more bad news trickled in over the economy. The economy was already doing badly since the disastrous Demonetization was carried out in late 2016 but by the start of this year, the economy was entering a free fall. While the GDP growth rate was plummeting to sub 5 percent, the unemployment rate was highest in decades. Thorugh all this, Kashmir was (and still is) nowhere close to normalcy after months of the abrogation of Article 370. And then, COVID-19 happened.
+
+In mid-March 2020, the prime minister and the nation would have considered it an absolute failure had they known that India would reach third place in the coronavirus tally with its numbers increasing faster than the top two nations. Even after more than four months now, there is no sign of the flattening of the curve. Furthermore, untold miseries were endured by millions of migrant workers due to the sudden and unplanned nationwide lockdown. Millions lost their livelihood and many lives were lost. Yet, that's not it.
+
+In June 2020, the precious lives of Indian soldiers were lost in the scuffle with China at the border. While many in the security establishment and outside advocated restraint, Prime Minister's populist voter base clamored for war or at least armed retribution. The Prime Minister took the nation in confidence but various leaks on the ground situation at the border where China still occupies the disputed territory also claimed by India embarrassed the government.
+
+One might think that no leader would be able to survive the above onslaughts. Even President Trump's approval rating is going southward by a big margin due to his handling of the pandemic. Yet, Prime Minister Modi is today unassailable, as shown by the recent poll. 78% of people approve the prime minister's performance favorably while if you add those who consider it average, the total comes to an astonishing 95%! Similarly, a surprising 44% of people view Narendra Modi as the best prime minister of India. Looking more closely at the poll, a few more things stand out.
+
+First, Prime Minister Modi is perceived as way above the government he heads. NDA government's favorable rating stands at 72% whereas every single minister in the government has seen a dip (often large one) in the performance rating when compared to January 2020. 
+
+Second, nationalism is the single biggest concern for Indians today. 16% of people rate the abrogation of Article 370 as the biggest achievement of the government. On the contrary, the passage of the CAA in the parliament is considered the government's achievement by only 1% of people. Furthermore, 59% of people believe that India should go to war with China—something the prime minister has wisely decided not to do—while only 9% of people said that India cannot defeat China.
+
+Third, and counter-intuitively to the last two points, it is not that the people are blind to the other major concerns facing India. Unemployment, migrant crisis, price rise, and economy are cumulatively considered the biggest failures of the government by 55% of people. 85% of people rated having an adverse impact on their economic condition due to the pandemic. Similarly, a cumulative 86% of people believe that COVID-19, unemployment, and economic shutdown are the biggest problems facing India today. As we saw above, on all of these accounts, the government's performance has been subpar on any metric.
+
+Fourth, again counter-intuitive to the previous point, 77% of people still favorably rate prime minister's handling of the pandemic. Additionally, 91% of people expressed that despite having such a high number of coronavirus cases after the economic havoc caused the pandemic, they consider India's response at par or better than other nations.
+
+Fifth, Prime Minister Modi's suitability to be the next prime minister is a full 58 percentage points higher than Rahul Gandhi—his closest rival. This gap was only 12 percentage points in January 2019 and is perhaps historically high between prime ministerial faces in the Indian democracy.
+
+Sixth, Prime Minister Modi's appeal has still not penetrated South India where up to 34% of people do not agree with the Modi Government's handling of the pandemic.
+
+The above points make it obvious that Prime Minister Modi is the most popular leader that India has had in a long time. He is currently Teflon-coated or Titanium-made in that no criticism or failures dent his image. This is as close to devotion/bhakti as it could be in the Indian democratic system. Ambedkar's concern that "Bhakti in religion may be a road to the salvation of the soul. But in politics, Bhakti or hero-worship is a sure road to degradation and to eventual dictatorship," may not fully apply here but Prime Minister Modi's image has become that he can do no wrong. A large part of this is based on the general perception that he is a <i>sadhu</i> (a saint) who is doing nothing for his personal gain but rather for the greater good of the nation. Perhaps, this is the reason that he often flaunts his childhood background and the fact that he does not have children. As a cherry on the top, his new beard style also portrays him as a saint-warrior.
+
+In 1957, Jawaharlal Nehru was reelected the prime minister after ten years at the nation's helm. His popularity was at its peak with heads of the state across the world were in the awe of his statesmanship and the democratic norms that he was nurturing in India. In 1972, Prime Minister Indira Gandhi was at her peak, when she was virtually hailed at Goddess Durga after India's victory in the 1971 war and the break up of Pakistan. In mid-1999, Prime Minister Vajpayee enjoyed praise from all sectors of the nation after India's victory in the Kargil conflict. The masses handsomely rewarded Vajpayee by returning him as the prime minister in the first non-Congress government that lasted its full term.
+
+The reason I brought up the above three instances from history is that in all cases, the decline of the leaders at their peak was precipitated by their own actions. In Prime Minister Nehru's case, it was primarily the catastrophic war with China in 1962. In Prime Minister Indira Gandhi's case, it was the Emergency and the faltering economic situation. In Prime Minister Vajpayee's case, it was the 2002 Gujarat riots and the self-damaging India Shining campaign. If history is anything to learn from, then now when Prime Minister Modi is at the peak of his popularity, only his own actions can bring his downfall. The major difference (which is unprecedented), of course, between him and his predecessors, is that while they enjoyed the peaks of their popularity after major achievements and at times of stability, Prime Minister Modi has attained the same position despite all the deep concerns that India faces today.
