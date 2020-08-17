@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dhoni: Learner, Leader, Legend"
+title:  "Mahendra Singh Dhoni: Learner, Leader, Legend"
 categories: [Cricket]
 author: Siddharth
 image: assets/images/dhoni.jpg
