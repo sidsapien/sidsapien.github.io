@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Prime Minister Modi's Present Popularity is Indeed Made of Titanium"
+title:  "Prime Minister Modi's Present Popularity is Indeed Made of Titanium."
 categories: [Politics]
 author: Siddharth
 image: assets/images/narendra_modi.jpg
 permalink: modi-india-today-poll
 tags: [Modi, Economy, Coronavirus, COVID-19, China]
-description: Prime Minister Modi's popularity is at its peak. Data also has many fascinating insights.
+description: Prime Minister Modi's popularity is at its peak. Only one leader can defeat him now.
 ---
 <i>"Data is always sacred. It does not follow the whims of any ideology."</i>
 
