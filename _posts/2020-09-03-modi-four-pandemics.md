@@ -6,7 +6,7 @@ author: Siddharth
 image: assets/images/narendra_modi.jpg
 permalink: modi-four-pandemics
 tags: [Modi, RSS, Coronavirus, COVID-19, China, Economy, GDP]
-description: "Not just COVID-19 but four pandemics are affliciting India and all are related to the Narendra Modi Paradox."
+description: "Not just COVID-19 but four pandemics are afflicting India and all are related to the Narendra Modi Paradox."
 ---
 There seems to be a clear pattern between the multiple pandemics that India is facing today and the paradox in the prime minister's personality. Before going any further, let me state two points. First, by pandemic, I am referring in a broad sense of the term to a crisis that affects the whole of India and has the capability of inflicting heavy mortal or moral destruction in both the short and long term. Second, my focus should have ideally been on the whole National Democratic Alliance (NDA) government but I am restricting it to the prime minister. This is because Prime Minister Modi is the strongest head of the state that we have seen in decades and no colleague of his in the government comes even close to match his stature. This leads to the prime minister's absolute control over every policy of the government.
 
