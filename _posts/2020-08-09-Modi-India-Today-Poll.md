@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Prime Minister Modi's Present Popularity is Indeed Made of Titanium."
+title:  "Prime Minister Modi's Present Popularity is Indeed Made of Titanium"
 categories: [Politics]
 author: Siddharth
 image: assets/images/narendra_modi.jpg
