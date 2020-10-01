@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Folly of Anecdotal Evidence and Today's India"
-categories: [Other, Economics, Politics]
+categories: [Others, Economics, Politics]
 author: Siddharth
 image: assets/images/statistics.jpg
 permalink: anecdotal-evidence-folly

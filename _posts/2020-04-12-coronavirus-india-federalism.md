@@ -5,7 +5,7 @@ categories: [Politics]
 author: Siddharth
 image: assets/images/india_language_map.png
 permalink: coronavirus-india-federalism
-tags: [Coronavirus, COVID-19, India, America, Federalism]
+tags: [Coronavirus, COVID-19, India, America, Federalism, Constitution]
 description: COVID-19 is helping in strengthening the roots of Federalism in India.
 ---
 Winston Churchill once advised to never let a good crisis go to waste. The present COVID-19 pandemic is a great opportunity for India to utilize this crisis by presenting itself as an alternative to China in the manufacturing sector. However, under the radar of the news broadcasting focused on COVID-19, there is another ongoing process manifesting itself in the Indian polity which is going unnoticed—deepening of Federalism in India. This makes COVID-19 perhaps the first &ldquo;Made in China&rdquo; commodity with lasting beneficial impact for India.
