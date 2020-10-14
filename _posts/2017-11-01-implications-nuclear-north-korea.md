@@ -3,7 +3,7 @@ layout: post
 title:  " North Korea on the Brink: Socio-Political Impacts of a Nuclear North Korea"
 categories: [InternationalAffairs]
 author: Siddharth
-image: assets/images/nuclear_NK.png
+image: assets/images/nuclear_NK.jpg
 permalink: nuclear-north-korea-implications
 tags: [NorthKorea, NuclearWeapons, America, China]
 description: A nuclear North Korea may spell disaster for the world.

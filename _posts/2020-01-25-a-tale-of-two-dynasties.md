@@ -3,7 +3,7 @@ layout: post
 title:  "A Tale of Two Dynasties"
 categories: [History, Politics]
 author: Siddharth
-image: assets/images/mughal_congress.png
+image: assets/images/mughal_congress.jpg
 permalink: a-tale-of-two-dynasties
 tags: [Akbar, Jahangir, ShahJahan, Aurangzeb, Nehru, IndiraGandhi, RajivGandhi, RahulGandhi, IbnKhaldun]
 description: There is much in common between Congress and Mughals.

@@ -3,7 +3,7 @@ layout: post
 title:  "The Myth of the Supremacy of a Majority Government in India"
 categories: [Politics]
 author: Siddharth
-image: assets/images/Indian_Parliament.png
+image: assets/images/Indian_Parliament.jpg
 permalink: strong-vs-coalition-government-in-india
 tags: [Modi, Congress, BJP, Tughlaq, Vajpayee, NarasimhaRao, ManmohanSingh, GDP]
 description: Every Indian Government has worked for the betterment of society.

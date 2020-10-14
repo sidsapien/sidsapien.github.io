@@ -3,7 +3,7 @@ layout: post
 title:  "Reminiscing the Visit to a Synagogue"
 categories: [Religion]
 author: Siddharth
-image: assets/images/religious_symbols.png
+image: assets/images/religious_symbols.jpg
 permalink: reminiscing-the-visit-to-a-synagogue
 tags: [Judaism, Sikhism, Synagogue]
 description: Interprating the visit to a syngagogue from Indian perspective.

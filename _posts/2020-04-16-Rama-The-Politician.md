@@ -3,7 +3,7 @@ layout: post
 title:  "Rama, the Brilliant Politician"
 categories: [Philosophy, Religion, Politics]
 author: Siddharth
-image: assets/images/rama.png
+image: assets/images/rama.jpg
 permalink: rama-the-politician
 tags: [Ramayana, Rama, Krishna, Mahabharata]
 description: Rama was also very adept at playing politics.

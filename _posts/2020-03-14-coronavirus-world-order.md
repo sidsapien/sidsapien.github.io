@@ -3,7 +3,7 @@ layout: post
 title:  "COVID-19, “Pandemic Diplomacy,” and Re-shaping of the World Order"
 categories: [InternationalAffairs]
 author: Siddharth
-image: assets/images/coronavirus_world_map.png
+image: assets/images/coronavirus_world_map.jpg
 permalink: coronavirus-world-order
 tags: [Coronavirus, COVID-19, America, China, India, Italy]
 description: COVID-19 is already changing the balance of power among nations.

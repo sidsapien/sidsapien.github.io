@@ -3,7 +3,7 @@ layout: post
 title:  "COVID-19 and the Deepening of Federalism in India"
 categories: [Politics]
 author: Siddharth
-image: assets/images/india_language_map.png
+image: assets/images/india_language_map.jpg
 permalink: coronavirus-india-federalism
 tags: [Coronavirus, COVID-19, India, America, Federalism, Constitution]
 description: COVID-19 is helping in strengthening the roots of Federalism in India.

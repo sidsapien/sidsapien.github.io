@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Merits and Demerits of the Indian Parliamentary System"
-categories: [History]
+categories: [History, Politics]
 author: Siddharth
-image: assets/images/Indian_Parliament.png
+image: assets/images/Indian_Parliament.jpg
 permalink: merits-demerits-indian-parliament
 tags: [Parliament, Modi, BJP, Congress, Madison]
 description: "Flaws in the Madisonian Model induce peculiar merits and demerits in the Indian Parliamentary System."

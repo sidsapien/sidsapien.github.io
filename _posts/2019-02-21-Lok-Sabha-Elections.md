@@ -3,7 +3,7 @@ layout: post
 title:  "Indian General Election 2019: Towards a Hung Parliament?"
 categories: [Politics]
 author: Siddharth
-image: assets/images/modi_shah.jpg
+image: assets/images/Indian_Parliament.jpg
 permalink: India-upcoming-lok-sabha-elections-2019
 tags: [Modi, BJP, Congress, RahulGandhi]
 description: What will be outcome of the 2019 Indian General Election?

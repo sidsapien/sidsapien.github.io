@@ -3,7 +3,7 @@ layout: post
 title:  "Twentieth Century's Religion"
 categories: [Politics, History, Religion]
 author: Siddharth
-image: assets/images/communist_symbol.png
+image: assets/images/communist_symbol.jpg
 permalink: twentieth-centurys-religion
 tags: [Communism, Democracy]
 description: How Communism is just another religion?
