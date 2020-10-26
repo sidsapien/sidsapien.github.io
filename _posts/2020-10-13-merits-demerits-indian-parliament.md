@@ -5,7 +5,7 @@ categories: [History, Politics]
 author: Siddharth
 image: assets/images/Indian_Parliament.jpg
 permalink: merits-demerits-indian-parliament
-tags: [Parliament, Modi, BJP, Congress, Madison]
+tags: [Parliament, Modi, BJP, Congress, Madison, America]
 description: "Flaws in the Madisonian Model induce peculiar merits and demerits in the Indian Parliamentary System."
 ---
 The Madisonian model of the structure of government named after one of the American founding fathers, James Madison, "the Father of the Constitution", is the structure that separates government into three branches namely, executive, legislature, and judiciary. This model separating powers between the branches of the government came into being in Philadelphia in 1787 during the Constitution Convention of America. The model has proven to be so successful and influential that it has been copied in various avatars in democracies around the world while the U.S. constitution itself has survived and flourished for more than 230 years now.
