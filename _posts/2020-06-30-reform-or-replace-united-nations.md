@@ -5,7 +5,7 @@ categories: [InternationalAffairs]
 author: Siddharth
 image: assets/images/un_general_assembly.jpg
 permalink: reform-or-replace-united-nations
-tags: [UnitedNations, America, China, India, Coronavirus, COVID-19]
+tags: [UnitedNations, America, China, India, Coronavirus, COVID-19, GlobalWarming]
 description: The United Nations has become the sick man of the world. Its response to COVID-19 and Global Warming shows that it must be reformed or replaced.
 ---
 The epidemiological pandemic, COVID-19, has accelerated the development, proliferation, and acceptance of many newer technologies that would have otherwise taken years. Virtual learning, work from home platforms, online shopping, digital transactions, food delivery, OTT services, etc. are just a few of the avenues that have seen large-scale acceptability and changes in the past few weeks, while many more technologies are yet to come. In many ways, the same trend of various developments getting accelerated has been unfolding in geopolitical affairs.

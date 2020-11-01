@@ -8,7 +8,7 @@ permalink: leadership-turbulent-times
 tags: [Coronavirus, COVID-19, Roosevelt, Nehru, Lincoln, Leadership]
 description: Tough times like those of wars and pandemics are the true test of leadership.
 ---
-Theodore Roosevelt once expressed thus: "If there is not the war, you don't get the great general; if there is to a great occasion, you don't get the great statesman; if Lincoln had lived in times of peace, no one would have known his name now."
+Theodore Roosevelt once expressed thus: "If there is not the war, you don't get the great general; if there is not a great occasion, you don't get the great statesman; if Lincoln had lived in times of peace, no one would have known his name now."
 
 War has a peculiar quality of shaping the reputation of leaders in posterity. Multiple polls predict the three greatest American presidents of all time to be George Washington, Abraham Lincoln, and Franklin Delano Roosevelt, though not always in this order. The common factor among the three? They led America in different wars in which the nation emerged triumphant (Washington in the Revolutionary War, Lincoln during the Civil War and Roosevelt for most of the Second World War). On the other side of the Atlantic, the British folklore has an unrivaled position reserved for Winston Churchill who led Britain during the Second World War. Similarly, many leaders around the world like Indira Gandhi, Mustafa Kemal Atatürk, Sheikh Mujibur Rahman, Simón Bolívar, among others are today revered because of their leadership during tumultuous times. 
 
