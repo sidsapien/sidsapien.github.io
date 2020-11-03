@@ -28,10 +28,10 @@ Political leaders in both types of political systems try to balance between empa
 
 Both types of political systems weave ideologies around them. Political leaders utilize different identities to convey that they shall be able to distribute the resources in a more "favorable" way than their competitors. These identities can be drawn through social (religion, caste, language, etc.), economic (free-market, socialist, etc.), or political inclination-based (liberal, conservative, centrist, etc.) factors. These identities which soon morph into different ideologies act as inspiration as well as facade at the same time. They bind human loyalty to some abstract notions of glory, pride, and righteousness while also providing a sense of belonging with one's fellow travelers (ideologues) on the same road. Ideologies strengthen the fraternal bond between their respective followers. At the same time, all too often, ideological differences become the common cause of political upheavals in society. This makes it difficult to answer if ideologies give birth to politics or politics advents ideologies. The presence of variant ideologies without politics precludes the redistribution of an institution's resources. And, what would politics be without opposing ideologies? The answer lies in the Urdu couplet:
 
-Gul haae rang rang se hai raunaqe chaman
+<i>Gul hain rang rang se hai raunaq-e-chaman</i>
 
-Ae zauq is chaman ko hai zeb ikhtilaf se
+<i>Ae 'zauq' is chaman ko hai zeb ikhtilāf se</i>
 
-(The many colors of flowers brighten the garden
+(Flowers of diverse colors form the garden’s splendor 
 
-This garden's beauty lies in its diversity)
+This garden’s beauty springs from such disagreements)
