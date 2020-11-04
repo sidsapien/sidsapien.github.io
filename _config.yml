@@ -39,6 +39,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
+
+cloudinary:
+  cloud_name: db8t6vlxo
   
 authors:
     Siddharth:
