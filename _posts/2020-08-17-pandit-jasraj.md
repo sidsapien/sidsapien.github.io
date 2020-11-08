@@ -12,4 +12,4 @@ description: ""
 
 भगवान् अथवा ब्रह्म का अस्तित्व किस रूप में है ये तो मुझे नहीं पता है लेकिन पंडित जसराज को सुनकर हमेशा एहसास हुआ की इस रूप में ही होगा। समय के साथ पंडित जसराज के और भी भजन और राग सुनने का मुझे सुअवसर मिला लेकिन पंडितजी का ये भजन "कपि से उऋण हम नाही" आज तक मेरा सबसे प्रिय है। यही मैं आज आप सब के साथ यहाँ साझा कर रहा हूँ। पंडित जसराज को मेरी भावुक श्रद्धांजलि और शत् शत् नमन।
 
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/LLX8PRWIcQE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe style="width:100%;" height="420" src="https://www.youtube.com/embed/LLX8PRWIcQE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
