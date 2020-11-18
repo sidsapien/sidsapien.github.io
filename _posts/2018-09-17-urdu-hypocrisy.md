@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Fine Example of Classic Hypocrisy"
+title:  "Urdu and the BJP: A Fine Example of Classic Hypocrisy"
 categories: [History, Politics, Culture]
 author: Siddharth
 image: assets/images/urdu_poetry.jpg

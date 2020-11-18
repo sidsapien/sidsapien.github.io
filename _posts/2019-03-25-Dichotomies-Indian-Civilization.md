@@ -6,7 +6,7 @@ author: Siddharth
 image: assets/images/india_culture.jpg
 permalink: dichotomies-indian-civilization
 tags: [Gandhi, Non-Violence, Ramayana, Mahabharata, Bose, Feminism, featured]
-description: Indian Civilization is full of dichotomies. There are many irreconciliable traditions in the Indian culture.
+description: Indian Civilization is full of dichotomies. There are many irreconcilable traditions in the Indian culture.
 ---
 Undoubtedly, the greatest Indian of the 20th century (some may say since Buddha, to which I agree) was Mahatma Gandhi. This apostle of non-violence is still revered across the nation. Gandhi did not believe in justifying the means to achieve the ends if the means composed of violence. In this, the antitheses of Gandhi was Subhas Bose. Just like Gandhi's teachings, the legend of Bose does not die. Even after conclusive proof of his death in 1945, legends circulated for decades about his escape and eventual comeback to lead the nation. Subhas believed in achieving the aims irrespective of the methods. Indians have always found it perfectly acceptable to revere both Subhas and Gandhi, and therein lies the first dichotomy of the Indian civilization. This dichotomy dictates that violence, as well as non-violence, are equally justified if the cause is sincere. It forced even Gandhi himself to admire Subhas while respectfully dissenting with Subhas's methods.
 
