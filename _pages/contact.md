@@ -3,7 +3,7 @@ title: "Contact"
 permalink: "/contact.html"
 ---
 
-<form action="https://formspree.io/sid.sapien@gmail.com" method="POST">    
+<form action="https://formspree.io/ssiddharth@ucsd.edu" method="POST">    
 <p class="mb-4">Please email me at <b>ssiddharth[at]ucsd.edu</b> or you can send a message by filling the form below. I will reply as soon as possible!</p>
 <div class="form-group row">
 <div class="col-md-6">
