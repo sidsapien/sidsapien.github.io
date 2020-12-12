@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2020 Physics Nobel Laureate Roger Penrose and IIIT Allahabad"
-categories: [Others]
+categories: [Biography, Others]
 author: Siddharth
 image: assets/images/roger_penrose.jpg
 permalink: roger-penrose-iiita
