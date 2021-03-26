@@ -6,15 +6,54 @@ image: assets/images/my_avatar_post.jpg
 ---
 
 
+
 <div class="container">
+
     
 {% if page.url == "/" %}
+
+    <div class="col-lg-12 mb-4">
+        <div class="row">
+            <div class="col-md-5"><img alt="founding-generations" src="assets/images/book_cover_front.jpg" height=auto>
+            </div>
+
+            <div class="col-md-7 text-center">
+              <img class="rounded-circle" src="assets/images/my_cover_image.jpg" height = auto alt="{{author.name}}" width="300"/>
+
+                <div style="color:#696969; font-family: Times New Roman">I am Siddharth, an Engineer, Computational Neuroscientist, and Writer. I am presently working as a User Research Specialist in Microsoft USA after having received my Ph.D. majoring in Intelligent Systems, Robotics, and Control from the University of California San Diego. 
+
+                <br>
+                <br>
+
+                My first book <i><a href="{{site.baseurl}}/founding-generations">Founding Generations</i></a> is about to release soon. <i><a href="{{site.baseurl}}/founding-generations">Click here</i></a> to read about the book and the rave reviews that it has received from renowned historians and scholars.
+
+                <br>
+                <br>
+
+                I often write about International Affairs, History, Politics, Philosophy, etc. To read my blog, please <i><a href="#Blog">click here.</i></a>
+
+                <br>
+                <br>
+
+                To know more about me, please <i><a href="{{site.baseurl}}/about-me">click here.</i></a>
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+    <br>
+    <br>
+    <br>
+    <br>
     
     
     
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
 <div class="row remove-site-content-margin">
-    
+    <h1 id="Blog"></h1>
     <!-- latest post -->
     {% assign latest_post = site.posts[0] %}
     <div class="col-md-6">
