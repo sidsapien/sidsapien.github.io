@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On Vegetarianism, Religion, and Morality"
-categories: [Religion, Culture]
+categories: [Religion, Culture, Philosophy]
 author: Siddharth
 image: assets/images/ashoka_dhauli_edict.jpg
 permalink: vegetarianism-religion
