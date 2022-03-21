@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Walking behind Rama's footsteps"
+title:  "Walking Behind Rama's Footsteps"
 categories: [History, Culture, Religion]
 author: Siddharth
 image: assets/images/chitrakoot.jpg

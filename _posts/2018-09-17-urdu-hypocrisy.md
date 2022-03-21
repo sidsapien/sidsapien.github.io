@@ -5,7 +5,7 @@ categories: [History, Politics, Culture]
 author: Siddharth
 image: assets/images/urdu_poetry.jpg
 permalink: urdu-hypocrisy
-tags: [Urdu, Hypocrisy, Hindutva, Ghalib]
+tags: [Urdu, Hindutva, Ghalib]
 description: Urdu has always been the language of expressing love.
 ---
 कहाँ मयखाने का दरवाज़ा 'ग़ालिब' और कहाँ वाइज़
