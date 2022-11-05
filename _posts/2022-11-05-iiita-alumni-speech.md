@@ -5,7 +5,7 @@ categories: [Others]
 author: Siddharth
 image: assets/images/iiita_alumni_event.jpg
 permalink: iiita-alumni-speech
-tags: []
+tags: [IIITA]
 description: Alumni Guest of Honor speech delivered at the IIIT Allahabad Global Alumni Meet 2022
 ---
 YouTube link to view the speech delivered at the event: <i><a target="_blank" href="https://youtu.be/YMt2RreO07w?t=4691">click here</a></i>
@@ -15,7 +15,7 @@ Thank you, Dr. Anand Deshpande, Chairman, Board of Governors, IIIT Allahabad, Pr
 I have always believed that IIIT Allahabad is special. I have visited many universities across the world and time and again, I have wondered how IIIT Allahabad made such a big mark for itself in just two decades. How did it do it? If you look back at 1999, it was a time when India was just starting to reap the fruits of economic liberalization. Nobody could have imagined then that an institute from Uttar Pradesh would rise so rapidly in such a short time. How IIIT Allahabad reached the heights where it is today? What factors led to the unprecedentedly rapid rise of this institution? How did it make a prominent place for itself amongst other distinguished universities established much earlier?
 I believe that the answer to these questions is threefold. 
 
-First, the name of our institute, IIIT "Allahabad" has a clue. Allahabad or Prayagraj, not only embodies the confluence of the holy Ganga and the mighty Yamuna, but rather the confluence of many cultures. The great emperor Ashoka installed a giant pillar here to promote tenets of Buddhism. The region's significance has also been illustrated by the great poet Tulsidas in Ramacharitramanas by this beautiful verse
+First, the name of our institute, IIIT "Allahabad" has a clue. Allahabad or Prayagraj, not only embodies the confluence of the holy Ganga and the mighty Yamuna, but rather the confluence of many cultures. The great emperor Ashoka installed a giant pillar here to promote tenets of Buddhism. The region's significance has also been illustrated by the great poet Tulsidas in Ramacharitmanas by this beautiful verse
 
 को कहि सकइ प्रयाग प्रभाऊ। कलुष पुंज कुंजर मृगराऊ।।
 

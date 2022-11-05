@@ -5,7 +5,7 @@ categories: [Biography, Others]
 author: Siddharth
 image: assets/images/roger_penrose.jpg
 permalink: roger-penrose-iiita
-tags: [NobelPrize]
+tags: [NobelPrize, IIITA]
 description: "There is a connection between Sir Roger Penrose and IIIT Allahabad's architecture!"
 ---
 On this fortuitous day when Sir Roger Penrose has been awarded the Nobel Prize in Physics for his research on black holes (some of which he did with Stephen Hawking), I am sure that many of my friends would be delighted to know about his connection with IIIT Allahabad.
