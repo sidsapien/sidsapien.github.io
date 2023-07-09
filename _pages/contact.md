@@ -4,7 +4,7 @@ permalink: "/contact.html"
 ---
 
 <form action="https://formspree.io/f/xaylddnb" method="POST">    
-<p class="mb-4">Please email me at <b>ssiddharth[at]ucsd.edu</b> or you can send a message by filling the form below. I will reply as soon as possible!</p>
+<p class="mb-4">Please email me at <b>siddharth.s[at]plaksha.edu.in</b> or you can send a message by filling the form below. I will reply as soon as possible!</p>
 <div class="form-group row">
 <div class="col-md-6">
 <input class="form-control" type="text" name="name" placeholder="Name*" required>
