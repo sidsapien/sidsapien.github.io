@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Many Expressions of Adwaita's Absolute Truth and Guru Nanak's Succinctness"
+title:  "The Many Expressions of Advaita's Absolute Truth and Guru Nanak's Succinctness"
 categories: [Religion]
 author: Siddharth
 image: assets/images/ik_onkar.jpg
