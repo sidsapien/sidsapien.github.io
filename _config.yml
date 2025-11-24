@@ -20,7 +20,7 @@ social:
   name: Siddharth
   links: 
     - https://www.facebook.com/siddharth.sapien
-    - https://twitter.com/SidSapien
+    - https://x.com/SidSapien
 description: Engineer. Computational Neuroscientist. Writer. Editor. Author of the book Founding Generations. Writes on International Affairs, History, and Politics.
 logo: assets/images/my_avatar_post.jpg
 webmaster_verification:
@@ -50,7 +50,7 @@ authors:
       avatar:         /assets/images/my_avatar_post.jpg
       bio:            "Hi, I am Siddharth!"
       email:          sid.sapien@gmail.com
-      twitter:        https://twitter.com/SidSapien
+      twitter:        https://x.com/SidSapien
  
 # Defaults
 defaults:
