@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "For the Batch I Will Always Remember"
+title:  "For the Class I Will Always Remember"
 categories: [Others]
 author: Siddharth
 image: assets/images/batch-farewell.jpg
-permalink: batch-2026-farewell
+permalink: class-2026-farewell
 tags: []
 description: Three ideas to steady your mind, shape your choices, and anchor your purpose.
 ---
