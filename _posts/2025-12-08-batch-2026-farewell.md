@@ -56,9 +56,9 @@ Our day usually starts with multiple notifications on our “smart” devices an
 
 Having a calm mind away from information clutter is a prerequisite to listening to your conscience. In our age, it is atrociously difficult to detach ourselves from our digital devices, whose apps are optimized to keep us hooked to them as much as possible. However, time once gone, sadly, never returns. You will understand this soon enough, as the craving to relive your undergraduate years will bring nostalgia. We have all been born with a definite but unknown quantity of time at our disposal. Thus, put your time to good use, away from information clutter, embracing a bit of “boredom” from time to time. 
 
-तेरी मिट्टी में मिल जावां, गुल बनके मैं खिल जावां इतनी सी है दिल की आरजू 
+तेरी मिट्टी में मिल जावां, गुल बनके मैं खिल जावां, इतनी सी है दिल की आरज़ू
 
-तेरी नदियों में बह जावां, तेरे खेतों में लहरावां इतनी सी है दिल की आरजू
+तेरी नदियों में बह जावां, तेरे खेतों में लहरावां, इतनी सी है दिल की आरज़ू
 
 ---Manoj Muntashir from <i>Kesari</i> (2019)
 
