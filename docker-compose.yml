@@ -1,6 +1,7 @@
-version: "3"
+#version: "3"
 services:
   jekyll:
+    platform: linux/amd64
     image: jekyll/jekyll:latest
     command: jekyll serve --host 0.0.0.0 --watch --drafts
     ports:
